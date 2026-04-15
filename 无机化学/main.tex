@@ -1,0 +1,66 @@
+
+\documentclass[12pt, a4paper]{ctexart}
+\usepackage{geometry}
+\geometry{left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm}
+\usepackage{amsmath, amssymb}
+\usepackage[version=4]{mhchem}
+\usepackage{enumitem}
+\usepackage{tasks}
+\usepackage{graphicx}
+
+% 处理电势图的横线，命令是\xline
+\makeatletter
+\def\xlinefill@{\arrowfill@\relbar\relbar\relbar}
+\newcommand{\xline}[2][]{\ext@arrow 0359\xlinefill@{#1}{#2}}
+\makeatother
+
+\settasks{
+    label=\Alph*.,         
+    label-width=1.5em,    
+    label-offset=0.5em,    
+    item-indent=2em,       
+    column-sep=1em,        
+    after-item-skip=0.5ex  
+}
+
+\begin{document}
+
+\include{2002Inorganic}
+
+\include{2003Inorganic}
+
+\include{2004Inorganic}
+
+\include{2005Inorganic}
+
+\include{2006Inorganic}
+
+\include{2007Inorganic}
+
+\include{2008Inorganic}
+
+\include{2009Inorganic}
+
+\include{2010Inorganic}
+
+\include{2011Inorganic}
+
+\include{2012Inorganic}
+
+\include{2013Inorganic}
+
+\include{2014Inorganic}
+
+\include{2015Inorganic}
+
+\include{2016Inorganic}
+
+\include{2017Inorganic}
+
+\include{2018Inorganic}
+
+\include{2019Inorganic}
+
+\include{2020Inorganic}
+
+\end{document}
