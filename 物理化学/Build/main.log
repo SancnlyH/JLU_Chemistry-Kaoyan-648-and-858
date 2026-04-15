@@ -1,0 +1,1174 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.13)  15 APR 2026 01:48
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**d:/Files/books/Saki_F/2026æ–°æ°”è±¡/çœŸé¢˜åŠè§£ç­”/ç‰©ç†åŒ–å­¦/main.tex
+(d:/Files/books/Saki_F/2026æ–°æ°”è±¡/çœŸé¢˜åŠè§£ç­”/ç‰©ç†åŒ–å­¦/main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexart.cls (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctexbackend.cfg
+File: ctexbackend.cfg 2022/07/14 v2.5.10 Backend configuration file (CTEX)
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-12-24 L3 programming layer (loader) 
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
+))
+Document Class: ctexart 2022/07/14 v2.5.10 Chinese adapter for class article (CTEX)
+(C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexhook.sty
+Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexpatch.sty
+Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+LaTeX Encoding Info:    Redeclaring text command \capitalcedilla (encoding TS1) on input line 49.
+LaTeX Encoding Info:    Redeclaring text command \capitalogonek (encoding TS1) on input line 52.
+LaTeX Encoding Info:    Redeclaring text command \capitalgrave (encoding TS1) on input line 55.
+LaTeX Encoding Info:    Redeclaring text command \capitalacute (encoding TS1) on input line 56.
+LaTeX Encoding Info:    Redeclaring text command \capitalcircumflex (encoding TS1) on input line 57.
+LaTeX Encoding Info:    Redeclaring text command \capitaltilde (encoding TS1) on input line 58.
+LaTeX Encoding Info:    Redeclaring text command \capitaldieresis (encoding TS1) on input line 59.
+LaTeX Encoding Info:    Redeclaring text command \capitalhungarumlaut (encoding TS1) on input line 60.
+LaTeX Encoding Info:    Redeclaring text command \capitalring (encoding TS1) on input line 61.
+LaTeX Encoding Info:    Redeclaring text command \capitalcaron (encoding TS1) on input line 62.
+LaTeX Encoding Info:    Redeclaring text command \capitalbreve (encoding TS1) on input line 63.
+LaTeX Encoding Info:    Redeclaring text command \capitalmacron (encoding TS1) on input line 64.
+LaTeX Encoding Info:    Redeclaring text command \capitaldotaccent (encoding TS1) on input line 65.
+LaTeX Encoding Info:    Redeclaring text command \t (encoding TS1) on input line 66.
+LaTeX Encoding Info:    Redeclaring text command \capitaltie (encoding TS1) on input line 67.
+LaTeX Encoding Info:    Redeclaring text command \newtie (encoding TS1) on input line 68.
+LaTeX Encoding Info:    Redeclaring text command \capitalnewtie (encoding TS1) on input line 69.
+LaTeX Encoding Info:    Redeclaring text symbol \textcapitalcompwordmark (encoding TS1) on input line 70.
+LaTeX Encoding Info:    Redeclaring text symbol \textascendercompwordmark (encoding TS1) on input line 71.
+LaTeX Encoding Info:    Redeclaring text symbol \textquotestraightbase (encoding TS1) on input line 72.
+LaTeX Encoding Info:    Redeclaring text symbol \textquotestraightdblbase (encoding TS1) on input line 73.
+LaTeX Encoding Info:    Redeclaring text symbol \texttwelveudash (encoding TS1) on input line 74.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreequartersemdash (encoding TS1) on input line 75.
+LaTeX Encoding Info:    Redeclaring text symbol \textleftarrow (encoding TS1) on input line 76.
+LaTeX Encoding Info:    Redeclaring text symbol \textrightarrow (encoding TS1) on input line 77.
+LaTeX Encoding Info:    Redeclaring text symbol \textblank (encoding TS1) on input line 78.
+LaTeX Encoding Info:    Redeclaring text symbol \textdollar (encoding TS1) on input line 79.
+LaTeX Encoding Info:    Redeclaring text symbol \textquotesingle (encoding TS1) on input line 80.
+LaTeX Encoding Info:    Redeclaring text command \textasteriskcentered (encoding TS1) on input line 81.
+LaTeX Encoding Info:    Redeclaring text symbol \textdblhyphen (encoding TS1) on input line 92.
+LaTeX Encoding Info:    Redeclaring text symbol \textfractionsolidus (encoding TS1) on input line 93.
+LaTeX Encoding Info:    Redeclaring text symbol \textzerooldstyle (encoding TS1) on input line 94.
+LaTeX Encoding Info:    Redeclaring text symbol \textoneoldstyle (encoding TS1) on input line 95.
+LaTeX Encoding Info:    Redeclaring text symbol \texttwooldstyle (encoding TS1) on input line 96.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreeoldstyle (encoding TS1) on input line 97.
+LaTeX Encoding Info:    Redeclaring text symbol \textfouroldstyle (encoding TS1) on input line 98.
+LaTeX Encoding Info:    Redeclaring text symbol \textfiveoldstyle (encoding TS1) on input line 99.
+LaTeX Encoding Info:    Redeclaring text symbol \textsixoldstyle (encoding TS1) on input line 100.
+LaTeX Encoding Info:    Redeclaring text symbol \textsevenoldstyle (encoding TS1) on input line 101.
+LaTeX Encoding Info:    Redeclaring text symbol \texteightoldstyle (encoding TS1) on input line 102.
+LaTeX Encoding Info:    Redeclaring text symbol \textnineoldstyle (encoding TS1) on input line 103.
+LaTeX Encoding Info:    Redeclaring text symbol \textlangle (encoding TS1) on input line 104.
+LaTeX Encoding Info:    Redeclaring text symbol \textminus (encoding TS1) on input line 105.
+LaTeX Encoding Info:    Redeclaring text symbol \textrangle (encoding TS1) on input line 106.
+LaTeX Encoding Info:    Redeclaring text symbol \textmho (encoding TS1) on input line 107.
+LaTeX Encoding Info:    Redeclaring text symbol \textbigcircle (encoding TS1) on input line 108.
+LaTeX Encoding Info:    Redeclaring text command \textcircled (encoding TS1) on input line 109.
+LaTeX Encoding Info:    Redeclaring text symbol \textohm (encoding TS1) on input line 115.
+LaTeX Encoding Info:    Redeclaring text symbol \textlbrackdbl (encoding TS1) on input line 116.
+LaTeX Encoding Info:    Redeclaring text symbol \textrbrackdbl (encoding TS1) on input line 117.
+LaTeX Encoding Info:    Redeclaring text symbol \textuparrow (encoding TS1) on input line 118.
+LaTeX Encoding Info:    Redeclaring text symbol \textdownarrow (encoding TS1) on input line 119.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciigrave (encoding TS1) on input line 120.
+LaTeX Encoding Info:    Redeclaring text symbol \textborn (encoding TS1) on input line 121.
+LaTeX Encoding Info:    Redeclaring text symbol \textdivorced (encoding TS1) on input line 122.
+LaTeX Encoding Info:    Redeclaring text symbol \textdied (encoding TS1) on input line 123.
+LaTeX Encoding Info:    Redeclaring text symbol \textleaf (encoding TS1) on input line 124.
+LaTeX Encoding Info:    Redeclaring text symbol \textmarried (encoding TS1) on input line 125.
+LaTeX Encoding Info:    Redeclaring text symbol \textmusicalnote (encoding TS1) on input line 126.
+LaTeX Encoding Info:    Redeclaring text symbol \texttildelow (encoding TS1) on input line 127.
+LaTeX Encoding Info:    Redeclaring text symbol \textdblhyphenchar (encoding TS1) on input line 128.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciibreve (encoding TS1) on input line 129.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciicaron (encoding TS1) on input line 130.
+LaTeX Encoding Info:    Redeclaring text symbol \textacutedbl (encoding TS1) on input line 131.
+LaTeX Encoding Info:    Redeclaring text symbol \textgravedbl (encoding TS1) on input line 132.
+LaTeX Encoding Info:    Redeclaring text symbol \textdagger (encoding TS1) on input line 133.
+LaTeX Encoding Info:    Redeclaring text symbol \textdaggerdbl (encoding TS1) on input line 134.
+LaTeX Encoding Info:    Redeclaring text symbol \textbardbl (encoding TS1) on input line 135.
+LaTeX Encoding Info:    Redeclaring text symbol \textperthousand (encoding TS1) on input line 136.
+LaTeX Encoding Info:    Redeclaring text symbol \textbullet (encoding TS1) on input line 137.
+LaTeX Encoding Info:    Redeclaring text symbol \textcelsius (encoding TS1) on input line 138.
+LaTeX Encoding Info:    Redeclaring text symbol \textdollaroldstyle (encoding TS1) on input line 139.
+LaTeX Encoding Info:    Redeclaring text symbol \textcentoldstyle (encoding TS1) on input line 140.
+LaTeX Encoding Info:    Redeclaring text symbol \textflorin (encoding TS1) on input line 141.
+LaTeX Encoding Info:    Redeclaring text symbol \textcolonmonetary (encoding TS1) on input line 142.
+LaTeX Encoding Info:    Redeclaring text symbol \textwon (encoding TS1) on input line 143.
+LaTeX Encoding Info:    Redeclaring text symbol \textnaira (encoding TS1) on input line 144.
+LaTeX Encoding Info:    Redeclaring text symbol \textguarani (encoding TS1) on input line 145.
+LaTeX Encoding Info:    Redeclaring text symbol \textpeso (encoding TS1) on input line 146.
+LaTeX Encoding Info:    Redeclaring text symbol \textlira (encoding TS1) on input line 147.
+LaTeX Encoding Info:    Redeclaring text symbol \textrecipe (encoding TS1) on input line 148.
+LaTeX Encoding Info:    Redeclaring text symbol \textinterrobang (encoding TS1) on input line 149.
+LaTeX Encoding Info:    Redeclaring text symbol \textinterrobangdown (encoding TS1) on input line 150.
+LaTeX Encoding Info:    Redeclaring text symbol \textdong (encoding TS1) on input line 151.
+LaTeX Encoding Info:    Redeclaring text symbol \texttrademark (encoding TS1) on input line 152.
+LaTeX Encoding Info:    Redeclaring text symbol \textpertenthousand (encoding TS1) on input line 153.
+LaTeX Encoding Info:    Redeclaring text symbol \textpilcrow (encoding TS1) on input line 154.
+LaTeX Encoding Info:    Redeclaring text symbol \textbaht (encoding TS1) on input line 155.
+LaTeX Encoding Info:    Redeclaring text symbol \textnumero (encoding TS1) on input line 156.
+LaTeX Encoding Info:    Redeclaring text symbol \textdiscount (encoding TS1) on input line 157.
+LaTeX Encoding Info:    Redeclaring text symbol \textestimated (encoding TS1) on input line 158.
+LaTeX Encoding Info:    Redeclaring text symbol \textopenbullet (encoding TS1) on input line 159.
+LaTeX Encoding Info:    Redeclaring text symbol \textservicemark (encoding TS1) on input line 160.
+LaTeX Encoding Info:    Redeclaring text symbol \textlquill (encoding TS1) on input line 161.
+LaTeX Encoding Info:    Redeclaring text symbol \textrquill (encoding TS1) on input line 162.
+LaTeX Encoding Info:    Redeclaring text symbol \textcent (encoding TS1) on input line 163.
+LaTeX Encoding Info:    Redeclaring text symbol \textsterling (encoding TS1) on input line 164.
+LaTeX Encoding Info:    Redeclaring text symbol \textcurrency (encoding TS1) on input line 165.
+LaTeX Encoding Info:    Redeclaring text symbol \textyen (encoding TS1) on input line 166.
+LaTeX Encoding Info:    Redeclaring text symbol \textbrokenbar (encoding TS1) on input line 167.
+LaTeX Encoding Info:    Redeclaring text symbol \textsection (encoding TS1) on input line 168.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciidieresis (encoding TS1) on input line 169.
+LaTeX Encoding Info:    Redeclaring text symbol \textcopyright (encoding TS1) on input line 170.
+LaTeX Encoding Info:    Redeclaring text symbol \textordfeminine (encoding TS1) on input line 171.
+LaTeX Encoding Info:    Redeclaring text symbol \textcopyleft (encoding TS1) on input line 172.
+LaTeX Encoding Info:    Redeclaring text symbol \textlnot (encoding TS1) on input line 173.
+LaTeX Encoding Info:    Redeclaring text symbol \textcircledP (encoding TS1) on input line 174.
+LaTeX Encoding Info:    Redeclaring text symbol \textregistered (encoding TS1) on input line 175.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciimacron (encoding TS1) on input line 176.
+LaTeX Encoding Info:    Redeclaring text symbol \textdegree (encoding TS1) on input line 177.
+LaTeX Encoding Info:    Redeclaring text symbol \textpm (encoding TS1) on input line 178.
+LaTeX Encoding Info:    Redeclaring text symbol \texttwosuperior (encoding TS1) on input line 179.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreesuperior (encoding TS1) on input line 180.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciiacute (encoding TS1) on input line 181.
+LaTeX Encoding Info:    Redeclaring text symbol \textmu (encoding TS1) on input line 182.
+LaTeX Encoding Info:    Redeclaring text symbol \textparagraph (encoding TS1) on input line 183.
+LaTeX Encoding Info:    Redeclaring text symbol \textperiodcentered (encoding TS1) on input line 184.
+LaTeX Encoding Info:    Redeclaring text symbol \textreferencemark (encoding TS1) on input line 185.
+LaTeX Encoding Info:    Redeclaring text symbol \textonesuperior (encoding TS1) on input line 186.
+LaTeX Encoding Info:    Redeclaring text symbol \textordmasculine (encoding TS1) on input line 187.
+LaTeX Encoding Info:    Redeclaring text symbol \textsurd (encoding TS1) on input line 188.
+LaTeX Encoding Info:    Redeclaring text symbol \textonequarter (encoding TS1) on input line 189.
+LaTeX Encoding Info:    Redeclaring text symbol \textonehalf (encoding TS1) on input line 190.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreequarters (encoding TS1) on input line 191.
+LaTeX Encoding Info:    Redeclaring text symbol \texteuro (encoding TS1) on input line 192.
+LaTeX Encoding Info:    Redeclaring text symbol \texttimes (encoding TS1) on input line 193.
+LaTeX Encoding Info:    Redeclaring text symbol \textdiv (encoding TS1) on input line 194.
+))
+\l__ctex_tmp_int=\count276
+\l__ctex_tmp_box=\box53
+\l__ctex_tmp_dim=\dimen148
+\g__ctex_section_depth_int=\count277
+\g__ctex_font_size_int=\count278
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctexopts.cfg
+File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
+)
+
+Class ctexart Warning: UTF8 will be used as the default encoding.
+
+(C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count279
+\c@section=\count280
+\c@subsection=\count281
+\c@subsubsection=\count282
+\c@paragraph=\count283
+\c@subparagraph=\count284
+\c@figure=\count285
+\c@table=\count286
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen149
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/ctex/engine\ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2022/07/14 v2.5.10 (pdf)LaTeX adapter (CTEX)
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJKutf8.sty
+Package: CJKutf8 2021/10/16 4.8.5
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJK.sty
+Package: CJK 2021/10/16 4.8.5
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/cjk/mule\MULEenc.sty
+Package: MULEenc 2021/10/16 4.8.5
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJK.enc
+File: CJK.enc 2021/10/16 4.8.5
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+\CJK@indent=\box54
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/cjkpunct\CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count287
+\CJKpunct@cntb=\count288
+\CJKpunct@cntc=\count289
+\CJKpunct@cntd=\count290
+\CJKpunct@cnte=\count291
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/cjkpunct\CJKpunct.spa)) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJKspace.sty
+Package: CJKspace 2021/10/16 3.8.0
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.bdg
+File: UTF8.bdg 2021/10/16 4.8.5
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexspa.def
+File: ctexspa.def 2022/07/14 v2.5.10 Space info for CJKpunct (CTEX)
+)
+\ccwd=\dimen150
+\l__ctex_ccglue_skip=\skip51
+)
+\l__ctex_ziju_dim=\dimen151
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/zhnumber\zhnumber.sty
+Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count292
+\l__zhnum_tmp_int=\count293
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/zhnumber\zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip52
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/ctex/scheme\ctex-scheme-chinese-article.def
+File: ctex-scheme-chinese-article.def 2022/07/14 v2.5.10 Chinese scheme for article (CTEX)
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
+)) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/ctex/fontset\ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTEX)
+)) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctex.cfg
+File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count294
+\Gm@cntv=\count295
+\c@Gm@tempcnt=\count296
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks20
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen160
+)) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen161
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count297
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count298
+\leftroot@=\count299
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count300
+\DOTSCASE@=\count301
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen162
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count302
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count303
+\dotsspace@=\muskip17
+\c@parentequation=\count304
+\dspbrk@lvl=\count305
+\tag@help=\toks22
+\row@=\count306
+\column@=\count307
+\maxfields@=\count308
+\andhelp@=\toks23
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
+\@envbody=\toks24
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/mhchem\mhchem.sty
+Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count309
+\calc@Bcount=\count310
+\calc@Adimen=\dimen169
+\calc@Bdimen=\dimen170
+\calc@Askip=\skip56
+\calc@Bskip=\skip57
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count311
+\calc@Cskip=\skip58
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/chemgreek\chemgreek.sty (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use in chemistry (CN)
+\l__chemgreek_tmpa_int=\count312
+\g__chemgreek_tmpa_int=\count313
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\l__mhchem_ce_distanceFromLastComma_int=\count314
+\__mhchem_arrow_extPgfLength_skip=\skip59
+\mhchem@minispace@tmp=\skip60
+\mhchem@minibackspace@tmp=\skip61
+\mhchem@bondwidth=\skip62
+\mhchem@bondheight=\skip63
+\mhchem@smallbondwidth@tmpA=\skip64
+\mhchem@smallbondwidth@tmpB=\skip65
+\mhchem@smallbondwidth=\skip66
+\mhchem@bondtmp@minussidebearingleft=\skip67
+\mhchem@bondtmp@minussidebearingright=\skip68
+\l__mhchem_option_version_int=\count315
+\mhchem@option@minusmathsidebearingleft=\dimen171
+\mhchem@option@minusmathsidebearingright=\dimen172
+\mhchem@option@minustextsidebearingleft=\dimen173
+\mhchem@option@minustextsidebearingright=\dimen174
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip69
+\enit@outerparindent=\dimen175
+\enit@toks=\toks26
+\enit@inbox=\box57
+\enit@count@id=\count316
+\enitdp@description=\count317
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/tasks\tasks.sty (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xtemplate\xtemplate.sty
+Package: xtemplate 2025-10-09 L3 Experimental prototype document functions
+)
+Package: tasks 2022/01/08 v1.4a lists with columns filled horizontally
+\g__tasks_total_items_int=\count318
+\l__tasks_columns_int=\count319
+\g__tasks_rows_int=\count320
+\g__tasks_current_col_num_int=\count321
+\g__tasks_current_row_num_int=\count322
+\l__tasks_item_columns_int=\count323
+\g__tasks_env_int=\count324
+\l__tasks_start_int=\count325
+\l__tasks_item_indent_dim=\dimen176
+\l__tasks_item_default_indent_dim=\dimen177
+\l__tasks_item_width_dim=\dimen178
+\l__tasks_label_width_dim=\dimen179
+\l__tasks_label_default_width_dim=\dimen180
+\l__tasks_label_offset_dim=\dimen181
+\l__tasks_label_default_offset_dim=\dimen182
+\l__tasks_column_sep_dim=\dimen183
+\l__tasks_correction_dim=\dimen184
+\l__tasks_full_width_dim=\dimen185
+\l__tasks_after_item_skip=\skip70
+\l__tasks_custom_after_item_skip=\skip71
+\l__tasks_before_list_skip=\skip72
+\l__tasks_after_list_skip=\skip73
+\l__tasks_item_coffin=\box58
+\l__tasks_label_coffin=\box59
+\c@task=\count326
+\l__tasks_tmpa_int=\count327
+\l__tasks_tmpb_int=\count328
+\l__tasks_tmpa_coffin=\box60
+\l__tasks_tmpa_box=\box61
+
+LaTeX template Info: Declaring template type 'tasks' taking 3 argument(s) on
+(template)           line 450.
+
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/tasks\tasks.cfg)) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen186
+\Gin@req@width=\dimen187
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\main.aux (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2005Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2006Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2007Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2008Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2009Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2010Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2011Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2012Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2013Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2014Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2015Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2016Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2017Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2018Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2019Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2020Physical.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package chemgreek Info: Activating mapping `default' on line 26.
+
+(C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count329
+\scratchdimen=\dimen188
+\scratchbox=\box62
+\nofMPsegments=\count330
+\nofMParguments=\count331
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count332
+\MPscratchDim=\dimen189
+\MPnumerator=\count333
+\makeMPintoPDFobject=\count334
+\everyMPtoPDFconversion=\toks28
+) (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\openout2 = `2005Physical.aux'.
+
+ (2005Physical.tex
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 2.
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/ctex/fd\c70rm.fd
+File: c70rm.fd 2022/07/14 v2.5.10 Chinese font definition (CTEX)
+)
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
+ (C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (20.36981pt too wide) in paragraph at lines 17--18
+\C70/rm/m/n/12/8f Ç \C70/rm/m/n/12/7a  \C70/rm/m/n/12/52 0 \C70/rm/m/n/12/8f ¾ \C70/rm/m/n/12/7e È \C70/rm/m/n/12/60 ^^A|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/8b å \C70/rm/m/n/12/8f Ç \C70/rm/m/n/12/7a  \C70/rm/m/n/12/76 „$\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 S[] \OT1/cmr/m/n/12 = 20\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 92 []$|\C70/rm/m/n/12/ff ^^L| $\OML/cmm/m/it/12 W \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 6\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 275 []$|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/5d ò \C70/rm/m/n/12/77 å$\OML/cmm/m/it/12 S[]\OT1/cmr/m/n/12 (373\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 6 K) =
+ []
+
+
+Overfull \hbox (12.55562pt too wide) in paragraph at lines 22--23
+\C70/rm/m/n/12/76 „ \C70/rm/m/n/12/91 Ï \C70/rm/m/n/12/76 ø \C70/rm/m/n/12/54 ^^L \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/6e ¶ \C70/rm/m/n/12/6d ² \C70/rm/m/n/12/4e 
+ \C70/rm/m/n/12/65 ¹|\C70/rm/m/n/12/ff ^^L| $[]\OT1/cmr/m/n/12 K$\C70/rm/m/n/12/54 Œ$[][]$\C70/rm/m/n/12/76 „ \C70/rm/m/n/12/84 ¸ \C70/rm/m/n/12/6c ^^T \C70/rm/m/n/12/53 ‹ \C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 142\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 6 []$\C70/rm/m/n/12/54 Œ$\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 733 []$|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/8b ¾ \C70/rm/m/n/12/4e å \C70/rm/m/n/12/7e ¯ \C70/rm/m/n/12/6d ² \C70/rm/m/n/12/4f S$[]\OT1/cmr/m/n/12 K$\C70/rm/m/n/12/54 Œ$[][]$\C70/rm/m/n/12/4e :
+ []
+
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no ² in font cmr12!
+
+Overfull \hbox (27.31479pt too wide) in paragraph at lines 46--48
+[]\C70/rm/m/n/12/75 5 \C70/rm/m/n/12/6c `$[][][][]\OT1/cmr/m/n/12 H[][](\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 )(\OML/cmm/m/it/12 p[]\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 ce[]\OT1/cmr/m/n/12 ([][])\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 ce[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; ce[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 l\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; ce[]$\C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 298 K$\C70/rm/m/n/12/65 ö \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/52 ¨ ¿$\OML/cmm/m/it/12 E \OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 9261 V$|\C70/rm/m/n/12/30 ^^B|
+ []
+
+(C:\Users\ä¹ç»˜å½©\AppData\Local\Programs\MiKTeX\tex/generic/ctex/zhmap\ctex-zhmap-windows.tex
+File: ctex-zhmap-windows.tex 2022/07/14 v2.5.10 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
+{C:/Users/ä¹ç»˜å½©/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{UGBK.sfd}{Unicode.sfd}) [1
+
+
+]
+Overfull \hbox (2.63252pt too wide) in paragraph at lines 58--59
+[]\C70/rm/m/n/12/6c B$[][] [][][]\OT1/cmr/m/n/12 g[]$\C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 298\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 15 K$\C70/rm/m/n/12/53 Ê$\OT1/cmr/m/n/12 101325 []$\C70/rm/m/n/12/65 ö \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/64 i \C70/rm/m/n/12/5c ^^T \C70/rm/m/n/12/71 µ|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/5d ò \C70/rm/m/n/12/77 å$[][]$\C70/rm/m/n/12/76 „$\OT1/cmr/m/n/12 ^^B[] = 2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 42 K\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^B[] = 2690 K$|\C70/rm/m/n/12/ff ^^L|
+ []
+
+<./Figure/P_2005_6.png, id=136, 363.2772pt x 273.1806pt>
+File: ./Figure/P_2005_6.png Graphic file (type png)
+<use ./Figure/P_2005_6.png>
+Package pdftex.def Info: ./Figure/P_2005_6.png  used on input line 63.
+(pdftex.def)             Requested size: 273.14923pt x 205.41849pt.
+
+Overfull \hbox (4.90668pt too wide) in paragraph at lines 70--71
+[]\C70/rm/m/n/12/57 ( \C70/rm/m/n/12/6e ) \C70/rm/m/n/12/5e ¦ \C70/rm/m/n/12/4e :$\OML/cmm/m/it/12 t[]$\C70/rm/m/n/12/65 ö|\C70/rm/m/n/12/ff ^^L| $\OT1/cmr/m/it/12 a$\C70/rm/m/n/12/70 ¹ \C70/rm/m/n/12/53 ï \C70/rm/m/n/12/4e å ^^N$\OT1/cmr/m/it/12 o$\C70/rm/m/n/12/70 ¹ \C70/rm/m/n/12/5e s \C70/rm/m/n/12/88 a \C70/rm/m/n/12/51 q \C70/rm/m/n/12/5b X|\C70/rm/m/n/12/ff ^^L| $\OT1/cmr/m/it/12 b$\C70/rm/m/n/12/70 ¹ \C70/rm/m/n/12/4e _ \C70/rm/m/n/12/53 ï \C70/rm/m/n/12/4e å ^^N$\OT1/cmr/m/it/12 o$\C70/rm/m/n/12/70 ¹ \C70/rm/m/n/12/5e s \C70/rm/m/n/12/88 a \C70/rm/m/n/12/51 q \C70/rm/m/n/12/5b X|\C70/rm/m/n/12/30 ^^B| $\OT1/cmr/m/it/12 a$\C70/rm/m/n/12/70 ¹ \C70/rm/m/n/12/4e ^^N$\OT1/cmr/m/it/12 b$\C70/rm/m/n/12/70 ¹
+ []
+
+) [2 <./Figure/P_2005_6.png>]
+\openout2 = `2006Physical.aux'.
+
+ (2006Physical.tex
+Overfull \hbox (8.90956pt too wide) in paragraph at lines 50--51
+[]\C70/rm/m/n/12/67 Ğ \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/54 ^^H \C70/rm/m/n/12/72 i \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/89 ã \C70/rm/m/n/12/66 / \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/7e § \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ”\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/8b å \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ” \C70/rm/m/n/12/6d ; \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/80 ı$\OML/cmm/m/it/12 E[] \OT1/cmr/m/n/12 = 14\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 43 \OMS/cmsy/m/n/12 ^^B \OT1/cmr/m/n/12 10[] []$|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/5d ò \C70/rm/m/n/12/77 å$\OT1/cmr/m/n/12 557 K$\C70/rm/m/n/12/65 ö\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/8b å
+ []
+
+[3
+
+
+
+]) [4]
+\openout2 = `2007Physical.aux'.
+
+ (2007Physical.tex
+Overfull \hbox (1.35767pt too wide) in paragraph at lines 27--28
+[]\OT1/cmr/m/n/12 B$\C70/rm/m/n/12/6d ÷ \C70/rm/m/n/12/54 ^^H ^^N\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/6d ² \C70/rm/m/n/12/97 b \C70/rm/m/n/12/4e 
+ \C70/rm/m/n/12/84 ¸ \C70/rm/m/n/12/6c ^^T \C70/rm/m/n/12/53 ‹ \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 50663 []$,\C70/rm/m/n/12/57 ( \C70/rm/m/n/12/84 ¸ \C70/rm/m/n/12/6c ^^T \C70/rm/m/n/12/4e -$[]\OT1/cmr/m/n/12 A$\C70/rm/m/n/12/76 „ \C70/rm/m/n/12/64 i \C70/rm/m/n/12/5c ^^T \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/65 p \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 60$,\C70/rm/m/n/12/50 G \C70/rm/m/n/12/5b š \C70/rm/m/n/12/84 ¸ \C70/rm/m/n/12/6c ^^T \C70/rm/m/n/12/4e : \C70/rm/m/n/12/74 ^^F \C70/rm/m/n/12/60 ó \C70/rm/m/n/12/6c ^^T \C70/rm/m/n/12/4f S\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/4e å
+ []
+
+[5
+
+
+
+]
+Overfull \hbox (20.44107pt too wide) in paragraph at lines 51--52
+[]\C70/rm/m/n/12/96 ? \C70/rm/m/n/12/53 ø 9 \C70/rm/m/n/12/67 — \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/70 í \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/89 ã \C70/rm/m/n/12/4f \ \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/66 / \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/7e § \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ”\OT1/cmr/m/n/12 ,$458 K$\C70/rm/m/n/12/54 Œ$\OT1/cmr/m/n/12 510 K$\C70/rm/m/n/12/65 ö \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/90 ^^_ \C70/rm/m/n/12/73 ‡ \C70/rm/m/n/12/5e 8 \C70/rm/m/n/12/65 p \C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 2 \OMS/cmsy/m/n/12 ^^B \OT1/cmr/m/n/12 10[]$\C70/rm/m/n/12/54 Œ$\OT1/cmr/m/n/12 3\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07 \OMS/cmsy/m/n/12 ^^B
+ []
+
+) [6]
+\openout2 = `2008Physical.aux'.
+
+ (2008Physical.tex
+Overfull \hbox (16.0705pt too wide) in paragraph at lines 17--18
+[]$\OT1/cmr/m/n/12 1 []$\C70/rm/m/n/12/53 U Ÿ \C70/rm/m/n/12/5b P \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/5b P \C70/rm/m/n/12/74 ^^F \C70/rm/m/n/12/60 ó \C70/rm/m/n/12/6c ^^T \C70/rm/m/n/12/4f S \C70/rm/m/n/12/7e Ï \C70/rm/m/n/12/8f Ç \C70/rm/m/n/12/4e ^^@ * \C70/rm/m/n/12/7e İ \C70/rm/m/n/12/70 í \C70/rm/m/n/12/4e ^^M \C70/rm/m/n/12/53 ï \C70/rm/m/n/12/90 ^^F \C70/rm/m/n/12/8f Ç \C70/rm/m/n/12/7a  \C70/rm/m/n/12/52 0 \C70/rm/m/n/12/8f ¾ \C70/rm/m/n/12/7e È \C70/rm/m/n/12/60 ^^A\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/8b å \C70/rm/m/n/12/7e È \C70/rm/m/n/12/60 ^^A \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/6e ) \C70/rm/m/n/12/5e ¦ \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 273 K$,\C70/rm/m/n/12/53 ‹
+ []
+
+
+Overfull \hbox (1.93562pt too wide) in paragraph at lines 53--54
+\C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ” \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/89 ã \C70/rm/m/n/12/62 ^^P$[][][][]$|\C70/rm/m/n/12/30 ^^A| $[][]\OT1/cmr/m/n/12 N[][]O[][]$\C70/rm/m/n/12/54 Œ$[]\OT1/cmr/m/n/12 O[][]$,\C70/rm/m/n/12/51 v \C70/rm/m/n/12/4e -$[][][][]$|\C70/rm/m/n/12/30 ^^A| $[][]\OT1/cmr/m/n/12 N[][]O[][]$\C70/rm/m/n/12/75 Y \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/6e ¶ \C70/rm/m/n/12/6d ² \C70/rm/m/n/12/4e -\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/80 ^^L$[]\OT1/cmr/m/n/12 O[][]$\C70/rm/m/n/12/52 ^^Y \C70/rm/m/n/12/90 ^^Z \C70/rm/m/n/12/8f Ç \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/68 9 \C70/rm/m/n/12/72 í \C70/rm/m/n/12/7b ¡ \C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 40[]C$\C70/rm/m/n/12/54 Œ
+ []
+
+[7
+
+
+
+]) [8]
+\openout2 = `2009Physical.aux'.
+
+ (2009Physical.tex [9
+
+
+
+]
+Overfull \hbox (12.47707pt too wide) in paragraph at lines 63--64
+[]$\OT1/cmr/m/n/12 25[]C$\C70/rm/m/n/12/65 ö\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/75 5 \C70/rm/m/n/12/6c `$[][][][][][][][][][][][][]\OMS/cmsy/m/n/12 j\OT1/cmr/m/n/12 H[][][]p[][][]\OMS/cmsy/m/n/12 j\OT1/cmr/m/n/12 H[][][][][][][]  [] \OMS/cmsy/m/n/12 ^^A [][][][]j[][][][][][][]\OT1/cmr/m/n/12 s[]\OMS/cmsy/m/n/12 j[] [][][]\OT1/cmr/m/n/12 l[]$\C70/rm/m/n/12/76 „ \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/52 ¨ ¿$\OML/cmm/m/it/12 E \OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 6120 V$, 
+ []
+
+) [10]
+\openout2 = `2010Physical.aux'.
+
+ (2010Physical.tex
+Overfull \hbox (1.59082pt too wide) in paragraph at lines 17--18
+[]\C70/rm/m/n/12/57 ( \C70/rm/m/n/12/4e $ * - \C70/rm/m/n/12/95 ô \C70/rm/m/n/12/75 1 \C70/rm/m/n/12/65 Ë \C70/rm/m/n/12/58 ^ \C70/rm/m/n/12/8f Ş \C70/rm/m/n/12/90 ^^Z \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/70 ç \C70/rm/m/n/12/74 ö \C70/rm/m/n/12/4e -\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/5f ^^@ \C70/rm/m/n/12/59 Ë \C70/rm/m/n/12/65 ö \C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/76 Û \C70/rm/m/n/12/67 	$\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 2 []\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 p[]$\C70/rm/m/n/12/76 „$[]\OT1/cmr/m/n/12 O[][]$\C70/rm/m/n/12/54 Œ$\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 8 []\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 8\OML/cmm/m/it/12 p[]$ 
+ []
+
+[11
+
+
+
+]) [12]
+\openout2 = `2011Physical.aux'.
+
+ (2011Physical.tex
+Overfull \hbox (4.83963pt too wide) in paragraph at lines 46--52
+[]\C70/rm/m/n/12/54 + \C70/rm/m/n/12/67 	 \C70/rm/m/n/12/97 ^ \C70/rm/m/n/12/63 % \C70/rm/m/n/12/53 Ñ \C70/rm/m/n/12/60 ' \C70/rm/m/n/12/6e ¶ \C70/rm/m/n/12/8d ($[]\OT1/cmr/m/n/12 B$\C70/rm/m/n/12/76 „ \C70/rm/m/n/12/6c 4 \C70/rm/m/n/12/6e ¶ \C70/rm/m/n/12/6d ²\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 101 325 []$\C70/rm/m/n/12/4e \OT1/cmr/m/n/12 ,$270\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 15 K$\C70/rm/m/n/12/65 ö \C70/rm/m/n/12/5f ^^@ \C70/rm/m/n/12/59 Ë \C70/rm/m/n/12/67  \C70/rm/m/n/12/51 ú °\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/5d ò \C70/rm/m/n/12/77 å \C70/rm/m/n/12/6c 4 \C70/rm/m/n/12/76 „$\OML/cmm/m/it/12 K[] \OT1/cmr/m/n/12 =
+ []
+
+[13
+
+
+
+] [14] [15]) [16]
+\openout2 = `2012Physical.aux'.
+
+ (2012Physical.tex
+Overfull \hbox (2.10016pt too wide) in paragraph at lines 53--54
+[]\C70/rm/m/n/12/82 å \C70/rm/m/n/12/5d ò \C70/rm/m/n/12/77 å \C70/rm/m/n/12/67 Ğ \C70/rm/m/n/12/6e ¶ \C70/rm/m/n/12/6d ² \C70/rm/m/n/12/4e - \C70/rm/m/n/12/72 i \C70/rm/m/n/12/8d ($[]\OT1/cmr/m/n/12 B$\C70/rm/m/n/12/76 „ \C70/rm/m/n/12/50 O \C70/rm/m/n/12/64 i \C70/rm/m/n/12/5c ^^T \C70/rm/m/n/12/6d ÷ \C70/rm/m/n/12/54 ^^H\OT1/cmr/m/n/12 Gibbs\C70/rm/m/n/12/81 ê \C70/rm/m/n/12/75 1 \C70/rm/m/n/12/80 ı \C70/rm/m/n/12/4e :$\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 889\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 62 []$,\C70/rm/m/n/12/6e ) \C70/rm/m/n/12/5e ¦ \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 300 K$, 
+ []
+
+[17
+
+
+
+]
+Overfull \hbox (10.10435pt too wide) in paragraph at lines 69--70
+[]$\OML/cmm/m/it/12 p[]$\C70/rm/m/n/12/54 Œ$\OT1/cmr/m/n/12 298 K$\C70/rm/m/n/12/4e \OT1/cmr/m/n/12 ,\C70/rm/m/n/12/62 Š$[][]$\C70/rm/m/n/12/54 Œ$[][][][][][][][][][]$\C70/rm/m/n/12/6e ¶ \C70/rm/m/n/12/6d ² \C70/rm/m/n/12/53 Ñ \C70/rm/m/n/12/75 ^^_ \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ” \C70/rm/m/n/12/5b ‰ \C70/rm/m/n/12/63 ’ \C70/rm/m/n/12/4e : \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/6c `\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/5f S \C70/rm/m/n/12/83 · \C70/rm/m/n/12/5f — \C70/rm/m/n/12/53 ï \C70/rm/m/n/12/90 ^^F \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/52 Ÿ \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 91\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 84 []$ 
+ []
+
+
+Overfull \hbox (1.0503pt too wide) in paragraph at lines 95--96
+[]\C70/rm/m/n/12/5d ò \C70/rm/m/n/12/77 å$\OT1/cmr/m/n/12 25[]C$\C70/rm/m/n/12/65 ö\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/75 5 \C70/rm/m/n/12/67  \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ”$[][]\OT1/cmr/m/n/12 O[][][] + [][][]H[][]O[] + [][][]2 e[][][] [] [][][]2 [][][]$\C70/rm/m/n/12/76 „ \C70/rm/m/n/12/68 ^^G \C70/rm/m/n/12/51 Æ \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/67  \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/52 ¿ \C70/rm/m/n/12/4e :$\OML/cmm/m/it/12 '[] \OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 401 V$, 
+ []
+
+[18]
+Missing character: There is no ¯ in font cmr8!
+[19]
+<./Figure/P_2012_5.png, id=232, 721.69624pt x 472.76625pt>
+File: ./Figure/P_2012_5.png Graphic file (type png)
+<use ./Figure/P_2012_5.png>
+Package pdftex.def Info: ./Figure/P_2012_5.png  used on input line 200.
+(pdftex.def)             Requested size: 236.72888pt x 155.07555pt.
+ [20 <./Figure/P_2012_5.png>]
+Overfull \hbox (7.8115pt too wide) in paragraph at lines 212--213
+[]\C70/rm/m/n/12/82 å \C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 25[]C$\C70/rm/m/n/12/53 Ê$\OT1/cmr/m/n/12 101\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 325 []$\C70/rm/m/n/12/4e  \C70/rm/m/n/12/8f Û \C70/rm/m/n/12/88 L \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ”\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/5e s \C70/rm/m/n/12/88 a \C70/rm/m/n/12/6d ÷ \C70/rm/m/n/12/54 ^^H \C70/rm/m/n/12/72 i \C70/rm/m/n/12/4e - \C70/rm/m/n/12/6b c \C70/rm/m/n/12/8f › \C70/rm/m/n/12/70 ÷ \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/64 i \C70/rm/m/n/12/5c ^^T \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/65 p \C70/rm/m/n/12/80 ı \C70/rm/m/n/12/54 & \C70/rm/m/n/12/8f ¾ \C70/rm/m/n/12/52 0$\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 1$?\C70/rm/m/n/12/82 å
+ []
+
+
+Overfull \hbox (23.88942pt too wide) in paragraph at lines 231--232
+[]\C70/rm/m/n/12/8b ¡ \C70/rm/m/n/12/7b —$\OT1/cmr/m/n/12 298 K$\C70/rm/m/n/12/65 ö \C70/rm/m/n/12/4e 
+ \C70/rm/m/n/12/8f ğ \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/6c ` \C70/rm/m/n/12/53 ï \C70/rm/m/n/12/90 ^^F \C70/rm/m/n/12/8f “ \C70/rm/m/n/12/51 ú$\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 F$\C70/rm/m/n/12/75 5 \C70/rm/m/n/12/83 w \C70/rm/m/n/12/91 Ï \C70/rm/m/n/12/65 ö\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/75 5 \C70/rm/m/n/12/6c ` \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ” \C70/rm/m/n/12/76 „$\OT1/cmr/m/n/12 ^^A[]\OML/cmm/m/it/12 G[]$\OT1/cmr/m/n/12 ,$^^A[]\OML/cmm/m/it/12 S[]$\OT1/cmr/m/n/12 ,$^^A[]\OML/cmm/m/it/12 H[]$\OT1/cmr/m/n/12 ,$^^A[]\OML/cmm/m/it/12 U[]$\OT1/cmr/m/n/12 ,$^^A[]\OML/cmm/m/it/12 A[]$ 
+ []
+
+) [21]
+\openout2 = `2013Physical.aux'.
+
+ (2013Physical.tex [22
+
+
+
+] [23]
+Overfull \hbox (1.48224pt too wide) in paragraph at lines 117--117
+[]|$\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 @U=@n[]\OT1/cmr/m/n/12 )[]$| 
+ []
+
+
+Overfull \hbox (1.76761pt too wide) in paragraph at lines 117--117
+|$\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 @H=@n[]\OT1/cmr/m/n/12 )[]$| 
+ []
+
+
+Overfull \hbox (0.85582pt too wide) in paragraph at lines 117--117
+|$\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 @F=@n[]\OT1/cmr/m/n/12 )[]$| 
+ []
+
+
+Overfull \hbox (1.53871pt too wide) in paragraph at lines 117--117
+|$\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 @G=@n[]\OT1/cmr/m/n/12 )[]$| 
+ []
+
+
+Overfull \hbox (37.26167pt too wide) in paragraph at lines 153--154
+\C70/rm/m/n/12/6e ¶ \C70/rm/m/n/12/6d ² \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/7e Ä \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/53 Ê \C70/rm/m/n/12/6d ² \C70/rm/m/n/12/97 b \C70/rm/m/n/12/4e 
+ \C70/rm/m/n/12/84 ¸ \C70/rm/m/n/12/6c ^^T \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/7e Ä \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/4e :$\OML/cmm/m/it/12 x[] \OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 595 6$,$\OML/cmm/m/it/12 y[] \OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 736 2$|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/8b Õ \C70/rm/m/n/12/6c B \C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 413\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 15 K$,\C70/rm/m/n/12/7e ¯$[][][]\OT1/cmr/m/n/12 C[][]H[][][]$\C70/rm/m/n/12/54 Œ
+ []
+
+[24]
+Overfull \hbox (40.15536pt too wide) in paragraph at lines 168--169
+\C70/rm/m/n/12/6c ' \C70/rm/m/n/12/76 „ î „|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/8b Õ \C70/rm/m/n/12/95 î \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ” \C70/rm/m/n/12/54 ^^N \C70/rm/m/n/12/6c " ^^T \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/7e ¯ \C70/rm/m/n/12/5e ¦ \C70/rm/m/n/12/80 ı \C70/rm/m/n/12/54 & \C70/rm/m/n/12/8f ¾ \C70/rm/m/n/12/52 0 \C70/rm/m/n/12/68 ^^G \C70/rm/m/n/12/51 Æ \C70/rm/m/n/12/89  \C70/rm/m/n/12/6c B\OT1/cmr/m/n/12 ?\C70/rm/m/n/12/5d ò \C70/rm/m/n/12/77 å$\OT1/cmr/m/n/12 ^^A[]\OML/cmm/m/it/12 G[]\OT1/cmr/m/n/12 ([][][]H[][]O[]g) = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 228\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 59 []$|\C70/rm/m/n/12/30 ^^B|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+
+ []
+
+
+Overfull \hbox (7.38443pt too wide) in paragraph at lines 173--176
+[]\C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 298 K$\C70/rm/m/n/12/65 ö \C70/rm/m/n/12/67 	 \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/6c `\OT1/cmr/m/n/12 : $[][][][][][][][][][][][]H[][][]p[][][] \OMS/cmsy/m/n/12 j [][][] [] ^^A [][][][] j [][]\OT1/cmr/m/n/12 s[][][] [][][]s[]$ \C70/rm/m/n/12/5d ò \C70/rm/m/n/12/77 å$[][]$\C70/rm/m/n/12/76 „$\OML/cmm/m/it/12 K[] \OT1/cmr/m/n/12 =
+ []
+
+
+Overfull \hbox (0.2172pt too wide) in paragraph at lines 185--186
+[]$\OT1/cmr/m/n/12 25[]C$\C70/rm/m/n/12/65 ö\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/75 5 \C70/rm/m/n/12/6c `$[][][][][][][][][][][] \OMS/cmsy/m/n/12 j [][]\OT1/cmr/m/n/12 s[] \OMS/cmsy/m/n/12 j [][][]  [] ^^A [][][][] j [][][][]\OT1/cmr/m/n/12 p[][][][][]$\C70/rm/m/n/12/76 „ \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/6c ` \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/52 ¨ ¿$\OML/cmm/m/it/12 E$\C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 107 V$|\C70/rm/m/n/12/30 ^^B|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+Overfull \hbox (26.75343pt too wide) in paragraph at lines 187--188
+[]\C70/rm/m/n/12/5d ò \C70/rm/m/n/12/77 å|\C70/rm/m/n/12/ff ^^Z| $[][]$\C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 25[]C$\C70/rm/m/n/12/65 ö \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/68 ^^G \C70/rm/m/n/12/51 Æ \C70/rm/m/n/12/75 ^^_ \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/71 ^^S \C70/rm/m/n/12/54 Œ \C70/rm/m/n/12/68 ^^G \C70/rm/m/n/12/51 Æ \C70/rm/m/n/12/75 ^^_ \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/54 	 \C70/rm/m/n/12/5e ^^C \C70/rm/m/n/12/65 ¯ \C70/rm/m/n/12/81 ê \C70/rm/m/n/12/75 1 \C70/rm/m/n/12/80 ı \C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/4e :$\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 127\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03 []$\C70/rm/m/n/12/54 Œ 
+ []
+
+) [25]
+\openout2 = `2014Physical.aux'.
+
+ (2014Physical.tex
+Overfull \hbox (10.40523pt too wide) in paragraph at lines 25--31
+[]\C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 300 K$\C70/rm/m/n/12/65 ö|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/6d ² \C70/rm/m/n/12/4f S$[]\OT1/cmr/m/n/12 A$\C70/rm/m/n/12/54 Œ$[]\OT1/cmr/m/n/12 B$\C70/rm/m/n/12/90 è \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/4e ’ \C70/rm/m/n/12/6e ¶ \C70/rm/m/n/12/5f b \C70/rm/m/n/12/62 ^^P$\OML/cmm/m/it/12 $\C70/rm/m/n/12/54 Œ$\OML/cmm/m/it/12 ^^L$\C70/rm/m/n/12/4e $ * \C70/rm/m/n/12/5e s \C70/rm/m/n/12/88 a \C70/rm/m/n/12/76 ø|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/57 ($\OML/cmm/m/it/12 $\C70/rm/m/n/12/76 ø|\C70/rm/m/n/12/ff ^^L| $[]\OT1/cmr/m/n/12 A$\C70/rm/m/n/12/76 „ \C70/rm/m/n/12/64 i \C70/rm/m/n/12/5c ^^T \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/65 p \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 85$|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Overfull \hbox (17.70943pt too wide) in paragraph at lines 52--52
+|\C70/rm/m/n/12/65 à \C70/rm/m/n/12/6c Õ \C70/rm/m/n/12/6b Ô \C70/rm/m/n/12/8f ƒ$\OML/cmm/m/it/12 I[]$\C70/rm/m/n/12/54 Œ$\OML/cmm/m/it/12 I[]$\C70/rm/m/n/12/59 '
+ []
+
+[26
+
+
+
+] [27]
+Overfull \hbox (9.90414pt too wide) in paragraph at lines 133--138
+\C70/rm/m/n/12/75 2 \C70/rm/m/n/12/70 ÷ \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/6b c \C70/rm/m/n/12/5e 8 \C70/rm/m/n/12/6c ¸ \C70/rm/m/n/12/70 ¹ \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 112 K$|\C70/rm/m/n/12/30 ^^B|  \OT1/cmr/m/n/12 (1) \C70/rm/m/n/12/57 ($\OML/cmm/m/it/12 p[]$|\C70/rm/m/n/12/30 ^^A| $\OT1/cmr/m/n/12 112 K$\C70/rm/m/n/12/4e |\C70/rm/m/n/12/ff ^^L| $\OT1/cmr/m/n/12 1 [] [][][][][][][]l[]$\C70/rm/m/n/12/7b I \C70/rm/m/n/12/6e ) \C70/rm/m/n/12/53 ï \C70/rm/m/n/12/90 ^^F \C70/rm/m/n/12/53 Ø ^^V \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 1 [] [][][][][][][]g[]$|\C70/rm/m/n/12/ff ^^[|
+ []
+
+
+Overfull \hbox (25.25616pt too wide) in paragraph at lines 133--138
+\OT1/cmr/m/n/12 (2) $1 [] [][][][][][][][]l[]p[][][][][][] K[]$\C70/rm/m/n/12/57 ( \C70/rm/m/n/12/77 ^^_ \C70/rm/m/n/12/7a z \C70/rm/m/n/12/67 a \C70/rm/m/n/12/4e ö  \C70/rm/m/n/12/53 Ø ^^V \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 1 [] [][][][][][][][]g[]p[][][][][][] K[]$|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/8b Õ \C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/8b ¡ \C70/rm/m/n/12/7b —\OT1/cmr/m/n/12 (1)\C70/rm/m/n/12/54 Œ\OT1/cmr/m/n/12 (2)\C70/rm/m/n/12/8f Ç
+ []
+
+
+Overfull \hbox (3.72896pt too wide) in paragraph at lines 142--143
+[]\C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 101 325 []$\C70/rm/m/n/12/4e |\C70/rm/m/n/12/ff ^^L| $\OT1/cmr/m/n/12 293 K$\C70/rm/m/n/12/54 Œ$\OT1/cmr/m/n/12 313 K$\C70/rm/m/n/12/65 ö|\C70/rm/m/n/12/ff ^^L| $[][][][]$\C70/rm/m/n/12/6c ^^T \C70/rm/m/n/12/4f S \C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 1 []$\C70/rm/m/n/12/6c 4 \C70/rm/m/n/12/4e - \C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/53 ï \C70/rm/m/n/12/6e ¶ \C70/rm/m/n/12/89 ã$\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 7 \OMS/cmsy/m/n/12 ^^B \OT1/cmr/m/n/12 10[] []$\C70/rm/m/n/12/54 Œ$\OT1/cmr/m/n/12 1 \OMS/cmsy/m/n/12 ^^B
+ []
+
+<./Figure/P_2014_4.png, id=264, 558.58687pt x 464.4853pt>
+File: ./Figure/P_2014_4.png Graphic file (type png)
+<use ./Figure/P_2014_4.png>
+Package pdftex.def Info: ./Figure/P_2014_4.png  used on input line 151.
+(pdftex.def)             Requested size: 236.72888pt x 196.84727pt.
+[28 <./Figure/P_2014_4.png>]
+Overfull \hbox (28.5426pt too wide) in paragraph at lines 165--166
+[]$[][][][][][][][][][][]\OT1/cmr/m/n/12 s[]$\C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/89 ã \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ” \C70/rm/m/n/12/65 ¹ \C70/rm/m/n/12/7a  \C70/rm/m/n/12/4e :$[][][][][][][][][][][]\OT1/cmr/m/n/12 s[][] [] [][][][][][]O [][][]s[][] + [][][][][][][][]g[]$,\C70/rm/m/n/12/8b ¾ \C70/rm/m/n/12/6c ^^T \C70/rm/m/n/12/76 ø \C70/rm/m/n/12/4e : \C70/rm/m/n/12/74 ^^F \C70/rm/m/n/12/60 ó \C70/rm/m/n/12/6c ^^T \C70/rm/m/n/12/4f S\OT1/cmr/m/n/12 ,$298 K$\C70/rm/m/n/12/65 ö
+ []
+
+
+Overfull \hbox (36.30177pt too wide) in paragraph at lines 186--187
+[]$[][][][]$\C70/rm/m/n/12/70 í \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/89 ã \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ”\OT1/cmr/m/n/12 :$[][][][][][][]g[][] [] [][][]2 [][][][][][]g[]$\C70/rm/m/n/12/66 / \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/7e § \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ”\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/5b š \C70/rm/m/n/12/91 Ï$[][][][]$\C70/rm/m/n/12/8f Å
+ []
+
+
+Overfull \hbox (22.29028pt too wide) in paragraph at lines 186--187
+\C70/rm/m/n/12/90 ^^_ \C70/rm/m/n/12/5f ^^U \C70/rm/m/n/12/51 e \C70/rm/m/n/12/4e ^^@ *$\OT1/cmr/m/n/12 553 K$\C70/rm/m/n/12/76 „ \C70/rm/m/n/12/5b ¹ \C70/rm/m/n/12/56 h \C70/rm/m/n/12/4e -\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/7e Ï$\OT1/cmr/m/n/12 454 s$,\C70/rm/m/n/12/6d K \C70/rm/m/n/12/5f — \C70/rm/m/n/12/53 ‹ \C70/rm/m/n/12/52 › \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 475 []$,\C70/rm/m/n/12/7e Ï \C70/rm/m/n/12/8f Ç \C70/rm/m/n/12/67  \C70/rm/m/n/12/95 ^^? \C70/rm/m/n/12/65 ö \C70/rm/m/n/12/95 ô \C70/rm/m/n/12/54 ^^N \C70/rm/m/n/12/53 ‹ \C70/rm/m/n/12/52 › \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 008 []$,\C70/rm/m/n/12/6b d
+ []
+
+
+Overfull \hbox (23.07806pt too wide) in paragraph at lines 191--192
+[]\C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ”$[][] [][][]\OT1/cmr/m/n/12 s[][] + [][][][][][][][]a[][][][] [] [][][] [][][]s[][] + [][][][][][][][]a[][][]$\C70/rm/m/n/12/57 ( \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/6c ` \C70/rm/m/n/12/4e - \C70/rm/m/n/12/8f Û \C70/rm/m/n/12/88 L\OT1/cmr/m/n/12 ,$15[]C$\C70/rm/m/n/12/65 ö\OT1/cmr/m/n/12 ,$\OML/cmm/m/it/12 '\OT1/cmr/m/n/12 ([][][][][] \OMS/cmsy/m/n/12 j []\OT1/cmr/m/n/12 ) =
+ []
+
+[29]) [30]
+\openout2 = `2015Physical.aux'.
+
+ (2015Physical.tex
+Overfull \hbox (9.30417pt too wide) in paragraph at lines 25--31
+[]\C70/rm/m/n/12/75 ($\OT1/cmr/m/n/12 130[]C$\C70/rm/m/n/12/76 „ \C70/rm/m/n/12/6c 4 \C70/rm/m/n/12/84 ¸ \C70/rm/m/n/12/6c ^^T |\C70/rm/m/n/12/ff ^^H|\C70/rm/m/n/12/84 ¸ \C70/rm/m/n/12/6c ^^T \C70/rm/m/n/12/53 ‹ \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 7\OML/cmm/m/it/12 p[]$|\C70/rm/m/n/12/ff 	| \C70/rm/m/n/12/4e ^^N$\OT1/cmr/m/n/12 1200[]C$\C70/rm/m/n/12/76 „ \C70/rm/m/n/12/71 & \C70/rm/m/n/12/70 ­ \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ” \C70/rm/m/n/12/75 ^^_ \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/6c 4 \C70/rm/m/n/12/71 d \C70/rm/m/n/12/6c ^^T|\C70/rm/m/n/12/ff ^^Z| $[]\OT1/cmr/m/n/12 C[] + [][][]H[][]O[] []
+ []
+
+[31
+
+
+
+] [32]
+Overfull \hbox (25.22966pt too wide) in paragraph at lines 130--131
+[]\C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 101\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 325 []$\C70/rm/m/n/12/4e |\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/75 2 \C70/rm/m/n/12/82 ï \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/6c ¸ \C70/rm/m/n/12/70 ¹ \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 383\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 2 K$|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/5d ò \C70/rm/m/n/12/77 å \C70/rm/m/n/12/6b d \C70/rm/m/n/12/67 a \C70/rm/m/n/12/4e ö $\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 S[]\OT1/cmr/m/n/12 (l) = 2619\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 1 []$|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Overfull \hbox (29.16066pt too wide) in paragraph at lines 132--133
+[]\C70/rm/m/n/12/4e 
+ \C70/rm/m/n/12/8f ğ \C70/rm/m/n/12/67 a \C70/rm/m/n/12/4e ö $\OT1/cmr/m/n/12 1 []$\C70/rm/m/n/12/75 2 \C70/rm/m/n/12/82 ï\OT1/cmr/m/n/12 (l)\C70/rm/m/n/12/84 ¸ \C70/rm/m/n/12/53 Ñ \C70/rm/m/n/12/65 ö \C70/rm/m/n/12/76 „$\OML/cmm/m/it/12 Q$|\C70/rm/m/n/12/ff ^^L| $\OML/cmm/m/it/12 W$|\C70/rm/m/n/12/ff ^^L| $\OT1/cmr/m/n/12 ^^A[]\OML/cmm/m/it/12 U[]$|\C70/rm/m/n/12/ff ^^L| $\OT1/cmr/m/n/12 ^^A[]\OML/cmm/m/it/12 H[]$|\C70/rm/m/n/12/ff ^^L| $\OT1/cmr/m/n/12 ^^A[]\OML/cmm/m/it/12 A[]$|\C70/rm/m/n/12/ff ^^L| $\OT1/cmr/m/n/12 ^^A[]\OML/cmm/m/it/12 G[]$\C70/rm/m/n/12/53 Ê$\OML/cmm/m/it/12 S[]\OT1/cmr/m/n/12 (g)$|\C70/rm/m/n/12/30 ^^B|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+
+Overfull \hbox (3.75592pt too wide) in paragraph at lines 154--155
+[]\C70/rm/m/n/12/8b ¡ \C70/rm/m/n/12/7b —$\OT1/cmr/m/n/12 1200[]C$\C70/rm/m/n/12/65 ö|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/56 ú \C70/rm/m/n/12/60 ^^A$[][]$\C70/rm/m/n/12/4e 
+ \C70/rm/m/n/12/6c ' \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/5e s \C70/rm/m/n/12/88 a \C70/rm/m/n/12/53 ‹ \C70/rm/m/n/12/52 ›|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ”$[][] [][][]\OT1/cmr/m/n/12 s[][] [] [][][] [][][]s[][] + [][][]O[][] [][][]g[]$\C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 25[]C$\C70/rm/m/n/12/65 ö
+ []
+
+[33]) [34]
+\openout2 = `2016Physical.aux'.
+
+ (2016Physical.tex [35
+
+
+
+]
+Overfull \hbox (1.018pt too wide) in paragraph at lines 115--115
+|$\OML/cmm/m/it/12 zFT\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 @E=@T\OT1/cmr/m/n/12 )[]$| 
+ []
+
+
+Overfull \hbox (1.90065pt too wide) in paragraph at lines 115--115
+|$\OML/cmm/m/it/12 zFE\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 @E=@T\OT1/cmr/m/n/12 )[]$| 
+ []
+
+[36]
+Overfull \hbox (4.53867pt too wide) in paragraph at lines 142--143
+[]\C70/rm/m/n/12/6c ^^T \C70/rm/m/n/12/60 ^^A \C70/rm/m/n/12/6b c \C70/rm/m/n/12/62 
+ \C70/rm/m/n/12/70 ÷ \C70/rm/m/n/12/54 Œ \C70/rm/m/n/12/5f ^^B \C70/rm/m/n/12/62 
+ \C70/rm/m/n/12/70 ÷ \C70/rm/m/n/12/76 „$\OT1/cmr/m/n/12 ^^A[]\OML/cmm/m/it/12 G[]\OT1/cmr/m/n/12 (298\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 15 K)$\C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/4e :$\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 194\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 4 []$|\C70/rm/m/n/12/ff ^^L| $\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 200\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 8 []$|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Overfull \hbox (35.53877pt too wide) in paragraph at lines 153--154
+[]\C70/rm/m/n/12/57 ($\OT1/cmr/m/n/12 25[]C$\C70/rm/m/n/12/65 ö|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ”$[]\OT1/cmr/m/n/12 H[][][][][]g[][] + [][][][][][]O [][][]s[] [] [][]2 [] [][][]s[][] + [][][]H[][]O [][][]l[]$\C70/rm/m/n/12/76 „ \C70/rm/m/n/12/60 R \C70/rm/m/n/12/5b ¹ \C70/rm/m/n/12/70 í \C70/rm/m/n/12/65 H \C70/rm/m/n/12/5e ”$\OML/cmm/m/it/12 Q[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 252\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 79 []$|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Overfull \hbox (0.9649pt too wide) in paragraph at lines 153--154
+\C70/rm/m/n/12/57 ($\OML/cmm/m/it/12 p[]$|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 298 K\C70/rm/m/n/12/4e |\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/5c ^^F \C70/rm/m/n/12/4e 
+ \C70/rm/m/n/12/8f ğ \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ” \C70/rm/m/n/12/4f S \C70/rm/m/n/12/7c û \C70/rm/m/n/12/67 „ \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/53 ï \C70/rm/m/n/12/90 ^^F \C70/rm/m/n/12/53 Ÿ \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/6c `|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/6d K \C70/rm/m/n/12/51 v \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/52 ¨ ¿ \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/6e ) \C70/rm/m/n/12/5e ¦ \C70/rm/m/n/12/7c û \C70/rm/m/n/12/65 p \C70/rm/m/n/12/4e :$\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 5\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 044 \OMS/cmsy/m/n/12 ^^B
+ []
+
+[37]) [38]
+\openout2 = `2017Physical.aux'.
+
+ (2017Physical.tex [39
+
+
+
+]
+Overfull \hbox (6.41512pt too wide) in paragraph at lines 91--91
+[]|$\OT1/cmr/m/n/12 442\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 2 []$| 
+ []
+
+
+Overfull \hbox (6.41512pt too wide) in paragraph at lines 91--91
+|$\OT1/cmr/m/n/12 260\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 7 []$| 
+ []
+
+
+Overfull \hbox (9.87354pt too wide) in paragraph at lines 91--91
+|$\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 62\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 3 []$| 
+ []
+
+
+Overfull \hbox (15.74847pt too wide) in paragraph at lines 91--91
+|$\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 442\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 2 []$| 
+ []
+
+[40]
+<./Figure/P_2017_5.png, id=314, 397.98688pt x 464.23438pt>
+File: ./Figure/P_2017_5.png Graphic file (type png)
+<use ./Figure/P_2017_5.png>
+Package pdftex.def Info: ./Figure/P_2017_5.png  used on input line 171.
+(pdftex.def)             Requested size: 236.72888pt x 276.13432pt.
+ [41]
+Overfull \hbox (14.60492pt too wide) in paragraph at lines 183--184
+[]\C70/rm/m/n/12/91 ‹ x P \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/89 ã \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ” \C70/rm/m/n/12/66 / \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/7e § \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ”|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/8b å \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/5e ” \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/6d ; \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/80 ı$\OML/cmm/m/it/12 E[] \OT1/cmr/m/n/12 = 144348 []$|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/5d ò \C70/rm/m/n/12/77 å$\OT1/cmr/m/n/12 284[]C$\C70/rm/m/n/12/65 ö|\C70/rm/m/n/12/ff ^^L|
+ []
+
+) [42 <./Figure/P_2017_5.png>]
+\openout2 = `2018Physical.aux'.
+
+ (2018Physical.tex [43
+
+
+
+] [44]
+Overfull \hbox (2.58813pt too wide) in paragraph at lines 135--136
+[]$\OT1/cmr/m/n/12 1[]$\C70/rm/m/n/12/53 U Ÿ \C70/rm/m/n/12/5b P \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/5b P \C70/rm/m/n/12/74 ^^F \C70/rm/m/n/12/60 ó \C70/rm/m/n/12/6c ^^T \C70/rm/m/n/12/4f S \C70/rm/m/n/12/7e Ï \C70/rm/m/n/12/8f Ç \C70/rm/m/n/12/4e ^^@ * \C70/rm/m/n/12/7e İ \C70/rm/m/n/12/70 í \C70/rm/m/n/12/4e ^^M \C70/rm/m/n/12/53 ï \C70/rm/m/n/12/90 ^^F \C70/rm/m/n/12/8f Ç \C70/rm/m/n/12/7a  \C70/rm/m/n/12/52 0 \C70/rm/m/n/12/8f ¾ \C70/rm/m/n/12/7e È \C70/rm/m/n/12/60 ^^A\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/8b å \C70/rm/m/n/12/7e È \C70/rm/m/n/12/60 ^^A \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/6e ) \C70/rm/m/n/12/5e ¦ \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 273\OML/cmm/m/it/12 K$|\C70/rm/m/n/12/ff ^^L|
+ []
+
+[45]
+<./Figure/P_2018_5.png, id=334, 2987.16pt x 1437.37pt>
+File: ./Figure/P_2018_5.png Graphic file (type png)
+<use ./Figure/P_2018_5.png>
+Package pdftex.def Info: ./Figure/P_2018_5.png  used on input line 166.
+(pdftex.def)             Requested size: 364.19667pt x 175.24045pt.
+) [46 <./Figure/P_2018_5.png>]
+\openout2 = `2019Physical.aux'.
+
+ (2019Physical.tex [47
+
+
+
+]
+Overfull \hbox (0.54225pt too wide) in paragraph at lines 126--126
+|$\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 15 []$| 
+ []
+
+[48] [49] [50]) [51]
+\openout2 = `2020Physical.aux'.
+
+ (2020Physical.tex
+Overfull \hbox (3.80403pt too wide) in paragraph at lines 31--31
+[]|$\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 128[]$| 
+ []
+
+
+Overfull \hbox (3.80403pt too wide) in paragraph at lines 31--31
+|$\OT1/cmr/m/n/12 49\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02[]$| 
+ []
+
+
+Overfull \hbox (3.80403pt too wide) in paragraph at lines 31--31
+|$\OT1/cmr/m/n/12 9\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 242[]$| 
+ []
+
+
+Overfull \hbox (3.80403pt too wide) in paragraph at lines 31--31
+|$\OT1/cmr/m/n/12 10\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 33[]$| 
+ []
+
+
+Overfull \hbox (13.87659pt too wide) in paragraph at lines 39--45
+\C70/rm/m/n/12/4f S \C70/rm/m/n/12/6d ÷ \C70/rm/m/n/12/54 ^^H \C70/rm/m/n/12/72 i|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/5f S$[]\OT1/cmr/m/n/12 A$\C70/rm/m/n/12/57 ( \C70/rm/m/n/12/6e ¶ \C70/rm/m/n/12/6d ² \C70/rm/m/n/12/4e - \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/72 i \C70/rm/m/n/12/8d ( \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/91 Ï \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/65 p \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 =\OT1/cmr/m/n/12 2$\C70/rm/m/n/12/65 ö|\C70/rm/m/n/12/ff ^^L| $[]\OT1/cmr/m/n/12 A$\C70/rm/m/n/12/57 ( \C70/rm/m/n/12/6c ^^T \C70/rm/m/n/12/76 ø \C70/rm/m/n/12/4e - \C70/rm/m/n/12/72 i \C70/rm/m/n/12/8d ( ( \C70/rm/m/n/12/91 Ï \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/65 p \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 =\OT1/cmr/m/n/12 3$\C70/rm/m/n/12/65 ö|\C70/rm/m/n/12/ff ^^L|
+ []
+
+[52
+
+
+
+]
+Overfull \hbox (6.99995pt too wide) in paragraph at lines 106--112
+[]$\OT1/cmr/m/n/12 298\OML/cmm/m/it/12 K$\C70/rm/m/n/12/4e |\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/5f S$[][]\OT1/cmr/m/n/12 H[][][][][]$\C70/rm/m/n/12/6e ¶ \C70/rm/m/n/12/6d ² \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/6d S \C70/rm/m/n/12/5e ¦ \C70/rm/m/n/12/4e Î$\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 01[]$\C70/rm/m/n/12/58  \C70/rm/m/n/12/52   0$\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 1[]$\C70/rm/m/n/12/65 ö|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/51 v \C70/rm/m/n/12/75 5 \C70/rm/m/n/12/5b ü \C70/rm/m/n/12/73 ‡$\OML/cmm/m/it/12 k$\C70/rm/m/n/12/54 Œ
+ []
+
+
+Overfull \hbox (7.33267pt too wide) in paragraph at lines 112--112
+[]|$\OML/cmm/m/it/12 k$\C70/rm/m/n/12/51 Ï \C70/rm/m/n/12/5c ^^O|\C70/rm/m/n/12/ff ^^L| $\OT1/cmr/m/n/12 ^^C[]$\C70/rm/m/n/12/58  \C70/rm/m/n/12/52  | 
+ []
+
+
+Overfull \hbox (7.33267pt too wide) in paragraph at lines 112--112
+|$\OML/cmm/m/it/12 k$\C70/rm/m/n/12/58  \C70/rm/m/n/12/52  |\C70/rm/m/n/12/ff ^^L| $\OT1/cmr/m/n/12 ^^C[]$\C70/rm/m/n/12/58  \C70/rm/m/n/12/52  | 
+ []
+
+
+Overfull \hbox (7.33267pt too wide) in paragraph at lines 112--112
+|$\OML/cmm/m/it/12 k$\C70/rm/m/n/12/51 Ï \C70/rm/m/n/12/5c ^^O|\C70/rm/m/n/12/ff ^^L| $\OT1/cmr/m/n/12 ^^C[]$\C70/rm/m/n/12/51 Ï \C70/rm/m/n/12/5c ^^O| 
+ []
+
+
+Overfull \hbox (7.33267pt too wide) in paragraph at lines 112--112
+|$\OML/cmm/m/it/12 k$\C70/rm/m/n/12/58  \C70/rm/m/n/12/52  |\C70/rm/m/n/12/ff ^^L| $\OT1/cmr/m/n/12 ^^C[]$\C70/rm/m/n/12/51 Ï \C70/rm/m/n/12/5c ^^O| 
+ []
+
+[53]
+Overfull \hbox (1.48114pt too wide) in paragraph at lines 135--136
+[]\C70/rm/m/n/12/4e s \C70/rm/m/n/12/72 ¶ \C70/rm/m/n/12/6d ² \C70/rm/m/n/12/53 ï \C70/rm/m/n/12/52 ^^F$[][]\OT1/cmr/m/n/12 O\OML/cmm/m/it/12 =\OT1/cmr/m/n/12 W$\C70/rm/m/n/12/57 ‹ \C70/rm/m/n/12/54 Œ$[][]\OT1/cmr/m/n/12 W\OML/cmm/m/it/12 =\OT1/cmr/m/n/12 O$\C70/rm/m/n/12/57 ‹|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/82 , \C70/rm/m/n/12/67 e \C70/rm/m/n/12/8b ô|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/82 å \C70/rm/m/n/12/4e s \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/52 B \C70/rm/m/n/12/66 / \C70/rm/m/n/12/61  \C70/rm/m/n/12/6c 4 \C70/rm/m/n/12/60 ' \C70/rm/m/n/12/76 „|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/5f b \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/66 /$[]$\C70/rm/m/n/12/57 ‹
+ []
+
+
+Overfull \hbox (47.81671pt too wide) in paragraph at lines 153--154
+\C70/rm/m/n/12/4e $\OT1/cmr/m/n/12 277\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 62\OML/cmm/m/it/12 K$\C70/rm/m/n/12/5f ^^@ \C70/rm/m/n/12/59 Ë \C70/rm/m/n/12/7e Ó \C70/rm/m/n/12/66 v|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/5d ò \C70/rm/m/n/12/77 å \C70/rm/m/n/12/82 ï \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/71 ” \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/70 í \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 9\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 89[]$|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/82 ï \C70/rm/m/n/12/75 2 \C70/rm/m/n/12/91 x \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/5b P \C70/rm/m/n/12/76 „ \C70/rm/m/n/12/64 i \C70/rm/m/n/12/5c ^^T \C70/rm/m/n/12/8d ( \C70/rm/m/n/12/91 Ï \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 122\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 1[]$|\C70/rm/m/n/12/30 ^^B|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+[54]
+<./Figure/P_2020_6.png, id=371, 2370.8575pt x 1798.72pt>
+File: ./Figure/P_2020_6.png Graphic file (type png)
+<use ./Figure/P_2020_6.png>
+Package pdftex.def Info: ./Figure/P_2020_6.png  used on input line 190.
+(pdftex.def)             Requested size: 273.14923pt x 207.21896pt.
+ [55 <./Figure/P_2020_6.png>]) [56] (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\main.aux (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2005Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2006Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2007Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2008Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2009Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2010Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2011Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2012Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2013Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2014Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2015Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2016Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2017Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2018Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2019Physical.aux) (d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\2020Physical.aux))
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2022/07/14>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 10549 strings out of 467871
+ 213026 string characters out of 5416440
+ 626258 words of memory out of 5000000
+ 38948 multiletter control sequences out of 15000+600000
+ 668014 words of font info for 185 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 78i,16n,92p,775b,847s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc> <C:\Users\ä¹ç»˜å½©\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Users/ä¹ç»˜å½©/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ä¹ç»˜å½©/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ä¹ç»˜å½©/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ä¹ç»˜å½©/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/ä¹ç»˜å½©/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ä¹ç»˜å½©/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ä¹ç»˜å½©/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/ä¹ç»˜å½©/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ä¹ç»˜å½©/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ä¹ç»˜å½©/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/ä¹ç»˜å½©/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/ä¹ç»˜å½©/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/ä¹ç»˜å½©/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on d:\Files\books\Saki_F\2026æ–°æ°”è±¡\çœŸé¢˜åŠè§£ç­”\ç‰©ç†åŒ–å­¦\Build\main.pdf (56 pages, 4346737 bytes).
+PDF statistics:
+ 729 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 343 words of extra memory for PDF output out of 10000 (max. 10000000)
+
