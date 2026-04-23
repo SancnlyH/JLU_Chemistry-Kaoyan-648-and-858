@@ -1,0 +1,1549 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.13)  23 APR 2026 12:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**d:/Files/books/Saki_F/2026新气象/真题及解答/有机分析/main.tex
+(d:/Files/books/Saki_F/2026新气象/真题及解答/有机分析/main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexart.cls (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctexbackend.cfg
+File: ctexbackend.cfg 2022/07/14 v2.5.10 Backend configuration file (CTEX)
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-12-24 L3 programming layer (loader) 
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
+))
+Document Class: ctexart 2022/07/14 v2.5.10 Chinese adapter for class article (CTEX)
+(C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexhook.sty
+Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexpatch.sty
+Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+LaTeX Encoding Info:    Redeclaring text command \capitalcedilla (encoding TS1) on input line 49.
+LaTeX Encoding Info:    Redeclaring text command \capitalogonek (encoding TS1) on input line 52.
+LaTeX Encoding Info:    Redeclaring text command \capitalgrave (encoding TS1) on input line 55.
+LaTeX Encoding Info:    Redeclaring text command \capitalacute (encoding TS1) on input line 56.
+LaTeX Encoding Info:    Redeclaring text command \capitalcircumflex (encoding TS1) on input line 57.
+LaTeX Encoding Info:    Redeclaring text command \capitaltilde (encoding TS1) on input line 58.
+LaTeX Encoding Info:    Redeclaring text command \capitaldieresis (encoding TS1) on input line 59.
+LaTeX Encoding Info:    Redeclaring text command \capitalhungarumlaut (encoding TS1) on input line 60.
+LaTeX Encoding Info:    Redeclaring text command \capitalring (encoding TS1) on input line 61.
+LaTeX Encoding Info:    Redeclaring text command \capitalcaron (encoding TS1) on input line 62.
+LaTeX Encoding Info:    Redeclaring text command \capitalbreve (encoding TS1) on input line 63.
+LaTeX Encoding Info:    Redeclaring text command \capitalmacron (encoding TS1) on input line 64.
+LaTeX Encoding Info:    Redeclaring text command \capitaldotaccent (encoding TS1) on input line 65.
+LaTeX Encoding Info:    Redeclaring text command \t (encoding TS1) on input line 66.
+LaTeX Encoding Info:    Redeclaring text command \capitaltie (encoding TS1) on input line 67.
+LaTeX Encoding Info:    Redeclaring text command \newtie (encoding TS1) on input line 68.
+LaTeX Encoding Info:    Redeclaring text command \capitalnewtie (encoding TS1) on input line 69.
+LaTeX Encoding Info:    Redeclaring text symbol \textcapitalcompwordmark (encoding TS1) on input line 70.
+LaTeX Encoding Info:    Redeclaring text symbol \textascendercompwordmark (encoding TS1) on input line 71.
+LaTeX Encoding Info:    Redeclaring text symbol \textquotestraightbase (encoding TS1) on input line 72.
+LaTeX Encoding Info:    Redeclaring text symbol \textquotestraightdblbase (encoding TS1) on input line 73.
+LaTeX Encoding Info:    Redeclaring text symbol \texttwelveudash (encoding TS1) on input line 74.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreequartersemdash (encoding TS1) on input line 75.
+LaTeX Encoding Info:    Redeclaring text symbol \textleftarrow (encoding TS1) on input line 76.
+LaTeX Encoding Info:    Redeclaring text symbol \textrightarrow (encoding TS1) on input line 77.
+LaTeX Encoding Info:    Redeclaring text symbol \textblank (encoding TS1) on input line 78.
+LaTeX Encoding Info:    Redeclaring text symbol \textdollar (encoding TS1) on input line 79.
+LaTeX Encoding Info:    Redeclaring text symbol \textquotesingle (encoding TS1) on input line 80.
+LaTeX Encoding Info:    Redeclaring text command \textasteriskcentered (encoding TS1) on input line 81.
+LaTeX Encoding Info:    Redeclaring text symbol \textdblhyphen (encoding TS1) on input line 92.
+LaTeX Encoding Info:    Redeclaring text symbol \textfractionsolidus (encoding TS1) on input line 93.
+LaTeX Encoding Info:    Redeclaring text symbol \textzerooldstyle (encoding TS1) on input line 94.
+LaTeX Encoding Info:    Redeclaring text symbol \textoneoldstyle (encoding TS1) on input line 95.
+LaTeX Encoding Info:    Redeclaring text symbol \texttwooldstyle (encoding TS1) on input line 96.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreeoldstyle (encoding TS1) on input line 97.
+LaTeX Encoding Info:    Redeclaring text symbol \textfouroldstyle (encoding TS1) on input line 98.
+LaTeX Encoding Info:    Redeclaring text symbol \textfiveoldstyle (encoding TS1) on input line 99.
+LaTeX Encoding Info:    Redeclaring text symbol \textsixoldstyle (encoding TS1) on input line 100.
+LaTeX Encoding Info:    Redeclaring text symbol \textsevenoldstyle (encoding TS1) on input line 101.
+LaTeX Encoding Info:    Redeclaring text symbol \texteightoldstyle (encoding TS1) on input line 102.
+LaTeX Encoding Info:    Redeclaring text symbol \textnineoldstyle (encoding TS1) on input line 103.
+LaTeX Encoding Info:    Redeclaring text symbol \textlangle (encoding TS1) on input line 104.
+LaTeX Encoding Info:    Redeclaring text symbol \textminus (encoding TS1) on input line 105.
+LaTeX Encoding Info:    Redeclaring text symbol \textrangle (encoding TS1) on input line 106.
+LaTeX Encoding Info:    Redeclaring text symbol \textmho (encoding TS1) on input line 107.
+LaTeX Encoding Info:    Redeclaring text symbol \textbigcircle (encoding TS1) on input line 108.
+LaTeX Encoding Info:    Redeclaring text command \textcircled (encoding TS1) on input line 109.
+LaTeX Encoding Info:    Redeclaring text symbol \textohm (encoding TS1) on input line 115.
+LaTeX Encoding Info:    Redeclaring text symbol \textlbrackdbl (encoding TS1) on input line 116.
+LaTeX Encoding Info:    Redeclaring text symbol \textrbrackdbl (encoding TS1) on input line 117.
+LaTeX Encoding Info:    Redeclaring text symbol \textuparrow (encoding TS1) on input line 118.
+LaTeX Encoding Info:    Redeclaring text symbol \textdownarrow (encoding TS1) on input line 119.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciigrave (encoding TS1) on input line 120.
+LaTeX Encoding Info:    Redeclaring text symbol \textborn (encoding TS1) on input line 121.
+LaTeX Encoding Info:    Redeclaring text symbol \textdivorced (encoding TS1) on input line 122.
+LaTeX Encoding Info:    Redeclaring text symbol \textdied (encoding TS1) on input line 123.
+LaTeX Encoding Info:    Redeclaring text symbol \textleaf (encoding TS1) on input line 124.
+LaTeX Encoding Info:    Redeclaring text symbol \textmarried (encoding TS1) on input line 125.
+LaTeX Encoding Info:    Redeclaring text symbol \textmusicalnote (encoding TS1) on input line 126.
+LaTeX Encoding Info:    Redeclaring text symbol \texttildelow (encoding TS1) on input line 127.
+LaTeX Encoding Info:    Redeclaring text symbol \textdblhyphenchar (encoding TS1) on input line 128.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciibreve (encoding TS1) on input line 129.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciicaron (encoding TS1) on input line 130.
+LaTeX Encoding Info:    Redeclaring text symbol \textacutedbl (encoding TS1) on input line 131.
+LaTeX Encoding Info:    Redeclaring text symbol \textgravedbl (encoding TS1) on input line 132.
+LaTeX Encoding Info:    Redeclaring text symbol \textdagger (encoding TS1) on input line 133.
+LaTeX Encoding Info:    Redeclaring text symbol \textdaggerdbl (encoding TS1) on input line 134.
+LaTeX Encoding Info:    Redeclaring text symbol \textbardbl (encoding TS1) on input line 135.
+LaTeX Encoding Info:    Redeclaring text symbol \textperthousand (encoding TS1) on input line 136.
+LaTeX Encoding Info:    Redeclaring text symbol \textbullet (encoding TS1) on input line 137.
+LaTeX Encoding Info:    Redeclaring text symbol \textcelsius (encoding TS1) on input line 138.
+LaTeX Encoding Info:    Redeclaring text symbol \textdollaroldstyle (encoding TS1) on input line 139.
+LaTeX Encoding Info:    Redeclaring text symbol \textcentoldstyle (encoding TS1) on input line 140.
+LaTeX Encoding Info:    Redeclaring text symbol \textflorin (encoding TS1) on input line 141.
+LaTeX Encoding Info:    Redeclaring text symbol \textcolonmonetary (encoding TS1) on input line 142.
+LaTeX Encoding Info:    Redeclaring text symbol \textwon (encoding TS1) on input line 143.
+LaTeX Encoding Info:    Redeclaring text symbol \textnaira (encoding TS1) on input line 144.
+LaTeX Encoding Info:    Redeclaring text symbol \textguarani (encoding TS1) on input line 145.
+LaTeX Encoding Info:    Redeclaring text symbol \textpeso (encoding TS1) on input line 146.
+LaTeX Encoding Info:    Redeclaring text symbol \textlira (encoding TS1) on input line 147.
+LaTeX Encoding Info:    Redeclaring text symbol \textrecipe (encoding TS1) on input line 148.
+LaTeX Encoding Info:    Redeclaring text symbol \textinterrobang (encoding TS1) on input line 149.
+LaTeX Encoding Info:    Redeclaring text symbol \textinterrobangdown (encoding TS1) on input line 150.
+LaTeX Encoding Info:    Redeclaring text symbol \textdong (encoding TS1) on input line 151.
+LaTeX Encoding Info:    Redeclaring text symbol \texttrademark (encoding TS1) on input line 152.
+LaTeX Encoding Info:    Redeclaring text symbol \textpertenthousand (encoding TS1) on input line 153.
+LaTeX Encoding Info:    Redeclaring text symbol \textpilcrow (encoding TS1) on input line 154.
+LaTeX Encoding Info:    Redeclaring text symbol \textbaht (encoding TS1) on input line 155.
+LaTeX Encoding Info:    Redeclaring text symbol \textnumero (encoding TS1) on input line 156.
+LaTeX Encoding Info:    Redeclaring text symbol \textdiscount (encoding TS1) on input line 157.
+LaTeX Encoding Info:    Redeclaring text symbol \textestimated (encoding TS1) on input line 158.
+LaTeX Encoding Info:    Redeclaring text symbol \textopenbullet (encoding TS1) on input line 159.
+LaTeX Encoding Info:    Redeclaring text symbol \textservicemark (encoding TS1) on input line 160.
+LaTeX Encoding Info:    Redeclaring text symbol \textlquill (encoding TS1) on input line 161.
+LaTeX Encoding Info:    Redeclaring text symbol \textrquill (encoding TS1) on input line 162.
+LaTeX Encoding Info:    Redeclaring text symbol \textcent (encoding TS1) on input line 163.
+LaTeX Encoding Info:    Redeclaring text symbol \textsterling (encoding TS1) on input line 164.
+LaTeX Encoding Info:    Redeclaring text symbol \textcurrency (encoding TS1) on input line 165.
+LaTeX Encoding Info:    Redeclaring text symbol \textyen (encoding TS1) on input line 166.
+LaTeX Encoding Info:    Redeclaring text symbol \textbrokenbar (encoding TS1) on input line 167.
+LaTeX Encoding Info:    Redeclaring text symbol \textsection (encoding TS1) on input line 168.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciidieresis (encoding TS1) on input line 169.
+LaTeX Encoding Info:    Redeclaring text symbol \textcopyright (encoding TS1) on input line 170.
+LaTeX Encoding Info:    Redeclaring text symbol \textordfeminine (encoding TS1) on input line 171.
+LaTeX Encoding Info:    Redeclaring text symbol \textcopyleft (encoding TS1) on input line 172.
+LaTeX Encoding Info:    Redeclaring text symbol \textlnot (encoding TS1) on input line 173.
+LaTeX Encoding Info:    Redeclaring text symbol \textcircledP (encoding TS1) on input line 174.
+LaTeX Encoding Info:    Redeclaring text symbol \textregistered (encoding TS1) on input line 175.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciimacron (encoding TS1) on input line 176.
+LaTeX Encoding Info:    Redeclaring text symbol \textdegree (encoding TS1) on input line 177.
+LaTeX Encoding Info:    Redeclaring text symbol \textpm (encoding TS1) on input line 178.
+LaTeX Encoding Info:    Redeclaring text symbol \texttwosuperior (encoding TS1) on input line 179.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreesuperior (encoding TS1) on input line 180.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciiacute (encoding TS1) on input line 181.
+LaTeX Encoding Info:    Redeclaring text symbol \textmu (encoding TS1) on input line 182.
+LaTeX Encoding Info:    Redeclaring text symbol \textparagraph (encoding TS1) on input line 183.
+LaTeX Encoding Info:    Redeclaring text symbol \textperiodcentered (encoding TS1) on input line 184.
+LaTeX Encoding Info:    Redeclaring text symbol \textreferencemark (encoding TS1) on input line 185.
+LaTeX Encoding Info:    Redeclaring text symbol \textonesuperior (encoding TS1) on input line 186.
+LaTeX Encoding Info:    Redeclaring text symbol \textordmasculine (encoding TS1) on input line 187.
+LaTeX Encoding Info:    Redeclaring text symbol \textsurd (encoding TS1) on input line 188.
+LaTeX Encoding Info:    Redeclaring text symbol \textonequarter (encoding TS1) on input line 189.
+LaTeX Encoding Info:    Redeclaring text symbol \textonehalf (encoding TS1) on input line 190.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreequarters (encoding TS1) on input line 191.
+LaTeX Encoding Info:    Redeclaring text symbol \texteuro (encoding TS1) on input line 192.
+LaTeX Encoding Info:    Redeclaring text symbol \texttimes (encoding TS1) on input line 193.
+LaTeX Encoding Info:    Redeclaring text symbol \textdiv (encoding TS1) on input line 194.
+))
+\l__ctex_tmp_int=\count276
+\l__ctex_tmp_box=\box53
+\l__ctex_tmp_dim=\dimen148
+\g__ctex_section_depth_int=\count277
+\g__ctex_font_size_int=\count278
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctexopts.cfg
+File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
+)
+
+Class ctexart Warning: UTF8 will be used as the default encoding.
+
+(C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count279
+\c@section=\count280
+\c@subsection=\count281
+\c@subsubsection=\count282
+\c@paragraph=\count283
+\c@subparagraph=\count284
+\c@figure=\count285
+\c@table=\count286
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen149
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/ctex/engine\ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2022/07/14 v2.5.10 (pdf)LaTeX adapter (CTEX)
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJKutf8.sty
+Package: CJKutf8 2021/10/16 4.8.5
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJK.sty
+Package: CJK 2021/10/16 4.8.5
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/cjk/mule\MULEenc.sty
+Package: MULEenc 2021/10/16 4.8.5
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJK.enc
+File: CJK.enc 2021/10/16 4.8.5
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+\CJK@indent=\box54
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/cjkpunct\CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count287
+\CJKpunct@cntb=\count288
+\CJKpunct@cntc=\count289
+\CJKpunct@cntd=\count290
+\CJKpunct@cnte=\count291
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/cjkpunct\CJKpunct.spa)) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJKspace.sty
+Package: CJKspace 2021/10/16 3.8.0
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.bdg
+File: UTF8.bdg 2021/10/16 4.8.5
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexspa.def
+File: ctexspa.def 2022/07/14 v2.5.10 Space info for CJKpunct (CTEX)
+)
+\ccwd=\dimen150
+\l__ctex_ccglue_skip=\skip51
+)
+\l__ctex_ziju_dim=\dimen151
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/zhnumber\zhnumber.sty
+Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count292
+\l__zhnum_tmp_int=\count293
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/zhnumber\zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip52
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/ctex/scheme\ctex-scheme-chinese-article.def
+File: ctex-scheme-chinese-article.def 2022/07/14 v2.5.10 Chinese scheme for article (CTEX)
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
+)) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/ctex/fontset\ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTEX)
+)) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctex.cfg
+File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count294
+\Gm@cntv=\count295
+\c@Gm@tempcnt=\count296
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks20
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen160
+)) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen161
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count297
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count298
+\leftroot@=\count299
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count300
+\DOTSCASE@=\count301
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen162
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count302
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count303
+\dotsspace@=\muskip17
+\c@parentequation=\count304
+\dspbrk@lvl=\count305
+\tag@help=\toks22
+\row@=\count306
+\column@=\count307
+\maxfields@=\count308
+\andhelp@=\toks23
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
+\@envbody=\toks24
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/mhchem\mhchem.sty
+Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count309
+\calc@Bcount=\count310
+\calc@Adimen=\dimen169
+\calc@Bdimen=\dimen170
+\calc@Askip=\skip56
+\calc@Bskip=\skip57
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count311
+\calc@Cskip=\skip58
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/chemgreek\chemgreek.sty (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use in chemistry (CN)
+\l__chemgreek_tmpa_int=\count312
+\g__chemgreek_tmpa_int=\count313
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\l__mhchem_ce_distanceFromLastComma_int=\count314
+\__mhchem_arrow_extPgfLength_skip=\skip59
+\mhchem@minispace@tmp=\skip60
+\mhchem@minibackspace@tmp=\skip61
+\mhchem@bondwidth=\skip62
+\mhchem@bondheight=\skip63
+\mhchem@smallbondwidth@tmpA=\skip64
+\mhchem@smallbondwidth@tmpB=\skip65
+\mhchem@smallbondwidth=\skip66
+\mhchem@bondtmp@minussidebearingleft=\skip67
+\mhchem@bondtmp@minussidebearingright=\skip68
+\l__mhchem_option_version_int=\count315
+\mhchem@option@minusmathsidebearingleft=\dimen171
+\mhchem@option@minusmathsidebearingright=\dimen172
+\mhchem@option@minustextsidebearingleft=\dimen173
+\mhchem@option@minustextsidebearingright=\dimen174
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen175
+\lightrulewidth=\dimen176
+\cmidrulewidth=\dimen177
+\belowrulesep=\dimen178
+\belowbottomsep=\dimen179
+\aboverulesep=\dimen180
+\abovetopsep=\dimen181
+\cmidrulesep=\dimen182
+\cmidrulekern=\dimen183
+\defaultaddspace=\dimen184
+\@cmidla=\count316
+\@cmidlb=\count317
+\@aboverulesep=\dimen185
+\@belowrulesep=\dimen186
+\@thisruleclass=\count318
+\@lastruleclass=\count319
+\@thisrulewidth=\dimen187
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip69
+\enit@outerparindent=\dimen188
+\enit@toks=\toks26
+\enit@inbox=\box57
+\enit@count@id=\count320
+\enitdp@description=\count321
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/tasks\tasks.sty (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xtemplate\xtemplate.sty
+Package: xtemplate 2025-10-09 L3 Experimental prototype document functions
+)
+Package: tasks 2022/01/08 v1.4a lists with columns filled horizontally
+\g__tasks_total_items_int=\count322
+\l__tasks_columns_int=\count323
+\g__tasks_rows_int=\count324
+\g__tasks_current_col_num_int=\count325
+\g__tasks_current_row_num_int=\count326
+\l__tasks_item_columns_int=\count327
+\g__tasks_env_int=\count328
+\l__tasks_start_int=\count329
+\l__tasks_item_indent_dim=\dimen189
+\l__tasks_item_default_indent_dim=\dimen190
+\l__tasks_item_width_dim=\dimen191
+\l__tasks_label_width_dim=\dimen192
+\l__tasks_label_default_width_dim=\dimen193
+\l__tasks_label_offset_dim=\dimen194
+\l__tasks_label_default_offset_dim=\dimen195
+\l__tasks_column_sep_dim=\dimen196
+\l__tasks_correction_dim=\dimen197
+\l__tasks_full_width_dim=\dimen198
+\l__tasks_after_item_skip=\skip70
+\l__tasks_custom_after_item_skip=\skip71
+\l__tasks_before_list_skip=\skip72
+\l__tasks_after_list_skip=\skip73
+\l__tasks_item_coffin=\box58
+\l__tasks_label_coffin=\box59
+\c@task=\count330
+\l__tasks_tmpa_int=\count331
+\l__tasks_tmpb_int=\count332
+\l__tasks_tmpa_coffin=\box60
+\l__tasks_tmpa_box=\box61
+
+LaTeX template Info: Declaring template type 'tasks' taking 3 argument(s) on
+(template)           line 450.
+
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/tasks\tasks.cfg)) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen199
+\Gin@req@width=\dimen256
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
+)
+\XKV@depth=\count333
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box62
+)
+\tc@llx=\dimen257
+\tc@lly=\dimen258
+\tc@urx=\dimen259
+\tc@ury=\dimen260
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen261
+\adjbox@Height=\dimen262
+\adjbox@Depth=\dimen263
+\adjbox@Totalheight=\dimen264
+\adjbox@pwidth=\dimen265
+\adjbox@pheight=\dimen266
+\adjbox@pdepth=\dimen267
+\adjbox@ptotalheight=\dimen268
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count334
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box63
+\sift@deathcycles=\count335
+\@vwid@loff=\dimen269
+\@vwid@roff=\dimen270
+)
+==> First Aid for varwidth.sty applied!
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+) (d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\main.aux (d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\2021OA.aux) (d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\2022OA.aux) (d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\2023OA.aux) (d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\2024OA.aux) (d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\2025OA.aux) (d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\2026OA.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package chemgreek Info: Activating mapping `default' on line 27.
+
+(C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count336
+\scratchdimen=\dimen271
+\scratchbox=\box64
+\nofMPsegments=\count337
+\nofMParguments=\count338
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count339
+\MPscratchDim=\dimen272
+\MPnumerator=\count340
+\makeMPintoPDFobject=\count341
+\everyMPtoPDFconversion=\toks30
+) (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\openout2 = `2021OA.aux'.
+
+ (2021OA.tex
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 2.
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/ctex/fd\c70rm.fd
+File: c70rm.fd 2022/07/14 v2.5.10 Chinese font definition (CTEX)
+)
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<./Figure/2021/2021_4_1.png, id=45, 968.86969pt x 145.29282pt>
+File: ./Figure/2021/2021_4_1.png Graphic file (type png)
+<use ./Figure/2021/2021_4_1.png>
+Package pdftex.def Info: ./Figure/2021/2021_4_1.png  used on input line 25.
+(pdftex.def)             Requested size: 368.1743pt x 55.21184pt.
+<./Figure/2021/2021_4_4.png, id=52, 1005.7575pt x 236.38312pt>
+File: ./Figure/2021/2021_4_4.png Graphic file (type png)
+<use ./Figure/2021/2021_4_4.png>
+Package pdftex.def Info: ./Figure/2021/2021_4_4.png  used on input line 42.
+(pdftex.def)             Requested size: 382.19182pt x 89.8265pt.
+ (C:\Users\乐绘彩\AppData\Local\Programs\MiKTeX\tex/generic/ctex/zhmap\ctex-zhmap-windows.tex
+File: ctex-zhmap-windows.tex 2022/07/14 v2.5.10 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
+{C:/Users/乐绘彩/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{UGBK.sfd}{Unicode.sfd}) [1
+
+
+ <./Figure/2021/2021_4_1.png> <./Figure/2021/2021_4_4.png>]
+<./Figure/2021/2021_4_7.png, id=121, 994.46532pt x 149.05687pt>
+File: ./Figure/2021/2021_4_7.png Graphic file (type png)
+<use ./Figure/2021/2021_4_7.png>
+Package pdftex.def Info: ./Figure/2021/2021_4_7.png  used on input line 59.
+(pdftex.def)             Requested size: 377.90074pt x 56.6422pt.
+<./Figure/2021/2021_4_8.png, id=122, 1154.06157pt x 227.34938pt>
+File: ./Figure/2021/2021_4_8.png Graphic file (type png)
+<use ./Figure/2021/2021_4_8.png>
+Package pdftex.def Info: ./Figure/2021/2021_4_8.png  used on input line 62.
+(pdftex.def)             Requested size: 438.54796pt x 86.39365pt.
+
+Overfull \hbox (12.67854pt too wide) in paragraph at lines 62--63
+[][] 
+ []
+
+<./Figure/2021/2021_4_11.png, id=124, 958.3303pt x 127.97812pt>
+File: ./Figure/2021/2021_4_11.png Graphic file (type png)
+<use ./Figure/2021/2021_4_11.png>
+Package pdftex.def Info: ./Figure/2021/2021_4_11.png  used on input line 79.
+(pdftex.def)             Requested size: 364.1693pt x 48.63219pt.
+<./Figure/2021/2021_1_1.png, id=128, 650.43pt x 389.20406pt>
+File: ./Figure/2021/2021_1_1.png Graphic file (type png)
+<use ./Figure/2021/2021_1_1.png>
+Package pdftex.def Info: ./Figure/2021/2021_1_1.png  used on input line 93.
+(pdftex.def)             Requested size: 195.1305pt x 116.76212pt.
+<./Figure/2021/2021_1_2.png, id=129, 636.12656pt x 166.37157pt>
+File: ./Figure/2021/2021_1_2.png Graphic file (type png)
+<use ./Figure/2021/2021_1_2.png>
+Package pdftex.def Info: ./Figure/2021/2021_1_2.png  used on input line 94.
+(pdftex.def)             Requested size: 190.83943pt x 49.91183pt.
+<./Figure/2021/2021_1_3.png, id=130, 784.43062pt x 382.42876pt>
+File: ./Figure/2021/2021_1_3.png Graphic file (type png)
+<use ./Figure/2021/2021_1_3.png>
+Package pdftex.def Info: ./Figure/2021/2021_1_3.png  used on input line 95.
+(pdftex.def)             Requested size: 235.331pt x 114.7295pt.
+[2 <./Figure/2021/2021_4_7.png> <./Figure/2021/2021_4_8.png> <./Figure/2021/2021_4_11.png> <./Figure/2021/2021_1_1.png>]
+<./Figure/2021/2021_1_4.png, id=147, 541.27219pt x 247.67531pt>
+File: ./Figure/2021/2021_1_4.png Graphic file (type png)
+<use ./Figure/2021/2021_1_4.png>
+Package pdftex.def Info: ./Figure/2021/2021_1_4.png  used on input line 96.
+(pdftex.def)             Requested size: 162.3829pt x 74.30316pt.
+<./Figure/2021/2021_1_5.png, id=148, 678.28406pt x 247.67531pt>
+File: ./Figure/2021/2021_1_5.png Graphic file (type png)
+<use ./Figure/2021/2021_1_5.png>
+Package pdftex.def Info: ./Figure/2021/2021_1_5.png  used on input line 97.
+(pdftex.def)             Requested size: 203.48679pt x 74.30316pt.
+<./Figure/2021/2021_1_6.png, id=149, 501.37312pt x 264.99pt>
+File: ./Figure/2021/2021_1_6.png Graphic file (type png)
+<use ./Figure/2021/2021_1_6.png>
+Package pdftex.def Info: ./Figure/2021/2021_1_6.png  used on input line 98.
+(pdftex.def)             Requested size: 150.41309pt x 79.4976pt.
+<./Figure/2021/2021_1_7.png, id=150, 691.83469pt x 249.18094pt>
+File: ./Figure/2021/2021_1_7.png Graphic file (type png)
+<use ./Figure/2021/2021_1_7.png>
+Package pdftex.def Info: ./Figure/2021/2021_1_7.png  used on input line 99.
+(pdftex.def)             Requested size: 207.552pt x 74.75485pt.
+<./Figure/2021/2021_1_8.png, id=151, 682.80093pt x 99.37125pt>
+File: ./Figure/2021/2021_1_8.png Graphic file (type png)
+<use ./Figure/2021/2021_1_8.png>
+Package pdftex.def Info: ./Figure/2021/2021_1_8.png  used on input line 100.
+(pdftex.def)             Requested size: 204.84186pt x 29.8116pt.
+<./Figure/2021/2021_1_9.png, id=152, 1152.55594pt x 386.19281pt>
+File: ./Figure/2021/2021_1_9.png Graphic file (type png)
+<use ./Figure/2021/2021_1_9.png>
+Package pdftex.def Info: ./Figure/2021/2021_1_9.png  used on input line 101.
+(pdftex.def)             Requested size: 345.76945pt x 115.85872pt.
+ [3 <./Figure/2021/2021_1_2.png> <./Figure/2021/2021_1_3.png> <./Figure/2021/2021_1_4.png> <./Figure/2021/2021_1_5.png> <./Figure/2021/2021_1_6.png> <./Figure/2021/2021_1_7.png> <./Figure/2021/2021_1_8.png>]
+<./Figure/2021/2021_1_10.png, id=163, 965.10562pt x 94.85437pt>
+File: ./Figure/2021/2021_1_10.png Graphic file (type png)
+<use ./Figure/2021/2021_1_10.png>
+Package pdftex.def Info: ./Figure/2021/2021_1_10.png  used on input line 102.
+(pdftex.def)             Requested size: 289.53392pt x 28.45651pt.
+<./Figure/2021/2021_5_1.png, id=168, 489.32813pt x 167.87718pt>
+File: ./Figure/2021/2021_5_1.png Graphic file (type png)
+<use ./Figure/2021/2021_5_1.png>
+Package pdftex.def Info: ./Figure/2021/2021_5_1.png  used on input line 112.
+(pdftex.def)             Requested size: 146.79956pt x 50.36354pt.
+<./Figure/2021/2021_2_1.png, id=169, 763.35187pt x 198.7425pt>
+File: ./Figure/2021/2021_2_1.png Graphic file (type png)
+<use ./Figure/2021/2021_2_1.png>
+Package pdftex.def Info: ./Figure/2021/2021_2_1.png  used on input line 120.
+(pdftex.def)             Requested size: 229.00732pt x 59.6232pt.
+<./Figure/2021/2021_2_2.png, id=170, 727.21687pt x 179.92218pt>
+File: ./Figure/2021/2021_2_2.png Graphic file (type png)
+<use ./Figure/2021/2021_2_2.png>
+Package pdftex.def Info: ./Figure/2021/2021_2_2.png  used on input line 121.
+(pdftex.def)             Requested size: 218.16673pt x 53.97707pt.
+<./Figure/2021/2021_3.png, id=171, 885.3075pt x 502.87875pt>
+File: ./Figure/2021/2021_3.png Graphic file (type png)
+<use ./Figure/2021/2021_3.png>
+Package pdftex.def Info: ./Figure/2021/2021_3.png  used on input line 135.
+(pdftex.def)             Requested size: 336.42033pt x 191.0959pt.
+ [4 <./Figure/2021/2021_1_9.png> <./Figure/2021/2021_1_10.png> <./Figure/2021/2021_5_1.png> <./Figure/2021/2021_2_1.png> <./Figure/2021/2021_2_2.png>]
+Overfull \hbox (8.0897pt too wide) in paragraph at lines 155--156
+[]$[][][][][]$\C70/rm/m/n/12/7f ^^S \C70/rm/m/n/12/51 � \C70/rm/m/n/12/6e � \C70/rm/m/n/12/6d � \C70/rm/m/n/12/76 � \C70/rm/m/n/12/8d ( \C70/rm/m/n/12/5b P \C70/rm/m/n/12/67 a \C70/rm/m/n/12/4e � \C70/rm/m/n/12/5f ^^O |\C70/rm/m/n/12/ff ^^H|\C70/rm/m/n/12/50 G \C70/rm/m/n/12/5b �$[][]$\C70/rm/m/n/12/57 ( \C70/rm/m/n/12/7f ^^S \C70/rm/m/n/12/51 � \C70/rm/m/n/12/6e � \C70/rm/m/n/12/6d � \C70/rm/m/n/12/4e - \C70/rm/m/n/12/6d S \C70/rm/m/n/12/5e � \C70/rm/m/n/12/4e :$\OML/cmm/m/it/12 c[]$|\C70/rm/m/n/12/ff ^^L| $[][]$\C70/rm/m/n/12/57 (
+ []
+
+
+Overfull \hbox (5.51025pt too wide) in paragraph at lines 166--167
+\C70/rm/m/n/12/6c B|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr/m/n/12 (1)\C70/rm/m/n/12/52 $ \C70/rm/m/n/12/65 � \C70/rm/m/n/12/66 / \C70/rm/m/n/12/54 & \C70/rm/m/n/12/80 � \C70/rm/m/n/12/90 	 \C70/rm/m/n/12/62 � \C70/rm/m/n/12/60 ' \C70/rm/m/n/12/6e � \C70/rm/m/n/12/5b �$[][]$|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/5e v \C70/rm/m/n/12/8b � \C70/rm/m/n/12/7b � \C70/rm/m/n/12/6e � \C70/rm/m/n/12/5b � \C70/rm/m/n/12/81 � \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/5b f \C70/rm/m/n/12/8b � \C70/rm/m/n/12/91 � \C70/rm/m/n/12/70 � \C70/rm/m/n/12/65 � \C70/rm/m/n/12/4f S \C70/rm/m/n/12/7c � \C70/rm/m/n/12/76 �$[]$\C70/rm/m/n/12/50 <|\C70/rm/m/n/12/ff ^^[| \OT1/cmr/m/n/12 (2)\C70/rm/m/n/12/82 �
+ []
+
+[5 <./Figure/2021/2021_3.png>]
+Overfull \hbox (12.4316pt too wide) in paragraph at lines 169--170
+[]\C70/rm/m/n/12/57 ($[] \OT1/cmr/m/n/12 = 5\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 0$\C70/rm/m/n/12/65 �|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4e � � \C70/rm/m/n/12/75 2 \C70/rm/m/n/12/91 Z \C70/rm/m/n/12/6a Y \C70/rm/m/n/12/4f \ \C70/rm/m/n/12/63 ^^G \C70/rm/m/n/12/79 : \C70/rm/m/n/12/52 B \C70/rm/m/n/12/75 ($\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 000 \OMS/cmsy/m/n/12 ^^B \OT1/cmr/m/n/12 10[] [] []$\C70/rm/m/n/12/6e � \C70/rm/m/n/12/5b � \C70/rm/m/n/12/6d S \C70/rm/m/n/12/5e � \C70/rm/m/n/12/76 � \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 000 \OMS/cmsy/m/n/12 ^^B
+ []
+
+
+Overfull \hbox (1.62228pt too wide) in paragraph at lines 171--172
+[]\OT1/cmr/m/n/12 [\C70/rm/m/n/12/5d � \C70/rm/m/n/12/77 �|\C70/rm/m/n/12/ff ^^Z| $[] \OML/cmm/m/it/12 K[] \OT1/cmr/m/n/12 = 18\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 0$|\C70/rm/m/n/12/ff ^^L| $[] \OML/cmm/m/it/12 K[] \OT1/cmr/m/n/12 = 16\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$|\C70/rm/m/n/12/ff ^^L| $[] \OML/cmm/m/it/12 K[] \OT1/cmr/m/n/12 = 10\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 7$|\C70/rm/m/n/12/ff ^^L| $[][][][][]$\C70/rm/m/n/12/7e � \C70/rm/m/n/12/54 ^^H \C70/rm/m/n/12/72 i \C70/rm/m/n/12/76 �$[] \OML/cmm/m/it/12 ^^L[] \OT1/cmr/m/n/12 =
+ []
+
+) [6]
+\openout2 = `2022OA.aux'.
+
+ (2022OA.tex
+<./Figure/2022/2022_4_1.png, id=213, 988.44281pt x 103.88812pt>
+File: ./Figure/2022/2022_4_1.png Graphic file (type png)
+<use ./Figure/2022/2022_4_1.png>
+Package pdftex.def Info: ./Figure/2022/2022_4_1.png  used on input line 25.
+(pdftex.def)             Requested size: 375.61217pt x 39.47789pt.
+<./Figure/2022/2022_4_4.png, id=215, 1023.07219pt x 246.9225pt>
+File: ./Figure/2022/2022_4_4.png Graphic file (type png)
+<use ./Figure/2022/2022_4_4.png>
+Package pdftex.def Info: ./Figure/2022/2022_4_4.png  used on input line 42.
+(pdftex.def)             Requested size: 388.77147pt x 93.83151pt.
+<./Figure/2022/2022_4_5.png, id=216, 999.735pt x 179.92218pt>
+File: ./Figure/2022/2022_4_5.png Graphic file (type png)
+<use ./Figure/2022/2022_4_5.png>
+Package pdftex.def Info: ./Figure/2022/2022_4_5.png  used on input line 45.
+(pdftex.def)             Requested size: 379.90324pt x 68.37112pt.
+<./Figure/2022/2022_4_6.png, id=217, 1167.61218pt x 205.5178pt>
+File: ./Figure/2022/2022_4_6.png Graphic file (type png)
+<use ./Figure/2022/2022_4_6.png>
+Package pdftex.def Info: ./Figure/2022/2022_4_6.png  used on input line 48.
+(pdftex.def)             Requested size: 443.69725pt x 78.09756pt.
+
+Overfull \hbox (17.82784pt too wide) in paragraph at lines 48--49
+[][] 
+ []
+
+[7
+
+
+
+ <./Figure/2022/2022_4_1.png> <./Figure/2022/2022_4_4.png> <./Figure/2022/2022_4_5.png>]
+<./Figure/2022/2022_4_7.png, id=226, 950.80219pt x 154.32657pt>
+File: ./Figure/2022/2022_4_7.png Graphic file (type png)
+<use ./Figure/2022/2022_4_7.png>
+Package pdftex.def Info: ./Figure/2022/2022_4_7.png  used on input line 51.
+(pdftex.def)             Requested size: 361.30858pt x 58.64468pt.
+<./Figure/2022/2022_4_8.png, id=228, 1013.28563pt x 154.32657pt>
+File: ./Figure/2022/2022_4_8.png Graphic file (type png)
+<use ./Figure/2022/2022_4_8.png>
+Package pdftex.def Info: ./Figure/2022/2022_4_8.png  used on input line 54.
+(pdftex.def)             Requested size: 385.05255pt x 58.64468pt.
+<./Figure/2022/2022_4_9.png, id=229, 1030.60031pt x 114.4275pt>
+File: ./Figure/2022/2022_4_9.png Graphic file (type png)
+<use ./Figure/2022/2022_4_9.png>
+Package pdftex.def Info: ./Figure/2022/2022_4_9.png  used on input line 57.
+(pdftex.def)             Requested size: 391.63219pt x 43.4829pt.
+<./Figure/2022/2022_4_10.png, id=230, 1012.5328pt x 145.29282pt>
+File: ./Figure/2022/2022_4_10.png Graphic file (type png)
+<use ./Figure/2022/2022_4_10.png>
+Package pdftex.def Info: ./Figure/2022/2022_4_10.png  used on input line 60.
+(pdftex.def)             Requested size: 384.76646pt x 55.21184pt.
+<./Figure/2022/2022_4_11.png, id=231, 1047.915pt x 185.19188pt>
+File: ./Figure/2022/2022_4_11.png Graphic file (type png)
+<use ./Figure/2022/2022_4_11.png>
+Package pdftex.def Info: ./Figure/2022/2022_4_11.png  used on input line 63.
+(pdftex.def)             Requested size: 398.21184pt x 70.37363pt.
+<./Figure/2022/2022_4_14.png, id=232, 1024.57782pt x 200.24812pt>
+File: ./Figure/2022/2022_4_14.png Graphic file (type png)
+<use ./Figure/2022/2022_4_14.png>
+Package pdftex.def Info: ./Figure/2022/2022_4_14.png  used on input line 80.
+(pdftex.def)             Requested size: 389.34361pt x 76.09508pt.
+ [8 <./Figure/2022/2022_4_6.png> <./Figure/2022/2022_4_7.png> <./Figure/2022/2022_4_8.png> <./Figure/2022/2022_4_9.png> <./Figure/2022/2022_4_10.png> <./Figure/2022/2022_4_11.png>]
+<./Figure/2022/2022_4_15.png, id=243, 782.17218pt x 115.93312pt>
+File: ./Figure/2022/2022_4_15.png Graphic file (type png)
+<use ./Figure/2022/2022_4_15.png>
+Package pdftex.def Info: ./Figure/2022/2022_4_15.png  used on input line 83.
+(pdftex.def)             Requested size: 297.22852pt x 44.05504pt.
+<./Figure/2022/2022_1_1.png, id=244, 651.93562pt x 292.09125pt>
+File: ./Figure/2022/2022_1_1.png Graphic file (type png)
+<use ./Figure/2022/2022_1_1.png>
+Package pdftex.def Info: ./Figure/2022/2022_1_1.png  used on input line 91.
+(pdftex.def)             Requested size: 195.58218pt x 87.62804pt.
+<./Figure/2022/2022_1_2.png, id=245, 837.1275pt x 246.1697pt>
+File: ./Figure/2022/2022_1_2.png Graphic file (type png)
+<use ./Figure/2022/2022_1_2.png>
+Package pdftex.def Info: ./Figure/2022/2022_1_2.png  used on input line 92.
+(pdftex.def)             Requested size: 251.14018pt x 73.85147pt.
+<./Figure/2022/2022_1_3.png, id=246, 1135.24126pt x 166.37157pt>
+File: ./Figure/2022/2022_1_3.png Graphic file (type png)
+<use ./Figure/2022/2022_1_3.png>
+Package pdftex.def Info: ./Figure/2022/2022_1_3.png  used on input line 93.
+(pdftex.def)             Requested size: 340.575pt x 49.91183pt.
+<./Figure/2022/2022_1_4.png, id=247, 829.59938pt x 152.06813pt>
+File: ./Figure/2022/2022_1_4.png Graphic file (type png)
+<use ./Figure/2022/2022_1_4.png>
+Package pdftex.def Info: ./Figure/2022/2022_1_4.png  used on input line 94.
+(pdftex.def)             Requested size: 248.88173pt x 45.62079pt.
+<./Figure/2022/2022_1_5.png, id=248, 965.10562pt x 135.50626pt>
+File: ./Figure/2022/2022_1_5.png Graphic file (type png)
+<use ./Figure/2022/2022_1_5.png>
+Package pdftex.def Info: ./Figure/2022/2022_1_5.png  used on input line 95.
+(pdftex.def)             Requested size: 289.53392pt x 40.65218pt.
+<./Figure/2022/2022_1_6.png, id=249, 995.21812pt x 103.13531pt>
+File: ./Figure/2022/2022_1_6.png Graphic file (type png)
+<use ./Figure/2022/2022_1_6.png>
+Package pdftex.def Info: ./Figure/2022/2022_1_6.png  used on input line 96.
+(pdftex.def)             Requested size: 298.56773pt x 30.94083pt.
+<./Figure/2022/2022_1_7.png, id=250, 642.14906pt x 149.8097pt>
+File: ./Figure/2022/2022_1_7.png Graphic file (type png)
+<use ./Figure/2022/2022_1_7.png>
+Package pdftex.def Info: ./Figure/2022/2022_1_7.png  used on input line 97.
+(pdftex.def)             Requested size: 192.6462pt x 44.94324pt.
+<./Figure/2022/2022_1_8.png, id=251, 886.81313pt x 179.16937pt>
+File: ./Figure/2022/2022_1_8.png Graphic file (type png)
+<use ./Figure/2022/2022_1_8.png>
+Package pdftex.def Info: ./Figure/2022/2022_1_8.png  used on input line 98.
+(pdftex.def)             Requested size: 266.04599pt x 53.75122pt.
+ [9 <./Figure/2022/2022_4_14.png> <./Figure/2022/2022_4_15.png> <./Figure/2022/2022_1_1.png> <./Figure/2022/2022_1_2.png> <./Figure/2022/2022_1_3.png> <./Figure/2022/2022_1_4.png> <./Figure/2022/2022_1_5.png> <./Figure/2022/2022_1_6.png> <./Figure/2022/2022_1_7.png>]
+<./Figure/2022/2022_1_9.png, id=265, 691.83469pt x 249.18094pt>
+File: ./Figure/2022/2022_1_9.png Graphic file (type png)
+<use ./Figure/2022/2022_1_9.png>
+Package pdftex.def Info: ./Figure/2022/2022_1_9.png  used on input line 99.
+(pdftex.def)             Requested size: 207.552pt x 74.75485pt.
+<./Figure/2022/2022_1_10.png, id=266, 539.01375pt x 97.86563pt>
+File: ./Figure/2022/2022_1_10.png Graphic file (type png)
+<use ./Figure/2022/2022_1_10.png>
+Package pdftex.def Info: ./Figure/2022/2022_1_10.png  used on input line 100.
+(pdftex.def)             Requested size: 161.70537pt x 29.35991pt.
+<./Figure/2022/2022_5_1.png, id=267, 1157.82562pt x 295.85532pt>
+File: ./Figure/2022/2022_5_1.png Graphic file (type png)
+<use ./Figure/2022/2022_5_1.png>
+Package pdftex.def Info: ./Figure/2022/2022_5_1.png  used on input line 110.
+(pdftex.def)             Requested size: 405.24504pt x 103.5509pt.
+<./Figure/2022/2022_2_1.png, id=268, 903.375pt x 122.70844pt>
+File: ./Figure/2022/2022_2_1.png Graphic file (type png)
+<use ./Figure/2022/2022_2_1.png>
+Package pdftex.def Info: ./Figure/2022/2022_2_1.png  used on input line 118.
+(pdftex.def)             Requested size: 271.01459pt x 36.8128pt.
+<./Figure/2022/2022_2_2.png, id=269, 977.90344pt x 172.39406pt>
+File: ./Figure/2022/2022_2_2.png Graphic file (type png)
+<use ./Figure/2022/2022_2_2.png>
+Package pdftex.def Info: ./Figure/2022/2022_2_2.png  used on input line 119.
+(pdftex.def)             Requested size: 293.37329pt x 51.71861pt.
+<./Figure/2022/2022_3.png, id=270, 916.92563pt x 483.30562pt>
+File: ./Figure/2022/2022_3.png Graphic file (type png)
+<use ./Figure/2022/2022_3.png>
+Package pdftex.def Info: ./Figure/2022/2022_3.png  used on input line 134.
+(pdftex.def)             Requested size: 348.43536pt x 183.65804pt.
+ [10 <./Figure/2022/2022_1_8.png> <./Figure/2022/2022_1_9.png> <./Figure/2022/2022_1_10.png> <./Figure/2022/2022_5_1.png> <./Figure/2022/2022_2_1.png> <./Figure/2022/2022_2_2.png>]
+Overfull \hbox (3.46777pt too wide) in paragraph at lines 154--155
+[]\C70/rm/m/n/12/7b � \C70/rm/m/n/12/8f �\OT1/cmr/m/n/12 EDTA\C70/rm/m/n/12/76 �$[] \OML/cmm/m/it/12 []$\C70/rm/m/n/12/96 �$[]$\C70/rm/m/n/12/76 � \C70/rm/m/n/12/53 � ^^V \C70/rm/m/n/12/8d � \C70/rm/m/n/12/52 �|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/59 � \C70/rm/m/n/12/53 � \C70/rm/m/n/12/80 ^^C \C70/rm/m/n/12/86 Q \C70/rm/m/n/12/91 x \C70/rm/m/n/12/65 H \C70/rm/m/n/12/5e �|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/52 ^^Y \C70/rm/m/n/12/91 � \C70/rm/m/n/12/5c ^ \C70/rm/m/n/12/79 � \C70/rm/m/n/12/5b P$[]\OT1/cmr/m/n/12 M$\C70/rm/m/n/12/4e ^^N\OT1/cmr/m/n/12 EDTA\C70/rm/m/n/12/7e �
+ []
+
+[11 <./Figure/2022/2022_3.png>]
+Overfull \hbox (5.1036pt too wide) in paragraph at lines 170--171
+[]\C70/rm/m/n/12/4e �$\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02000 [] []$\C70/rm/m/n/12/6e � \C70/rm/m/n/12/5b � \C70/rm/m/n/12/6d S \C70/rm/m/n/12/5e � \C70/rm/m/n/12/57 G \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02000 [] [][][][]$|\C70/rm/m/n/12/30 ^^A| $[][][][]$\C70/rm/m/n/12/6d � \C70/rm/m/n/12/54 ^^H \C70/rm/m/n/12/6d � \C70/rm/m/n/12/4e - \C70/rm/m/n/12/76 �$[][][][]$\OT1/cmr/m/n/12 ,\C70/rm/m/n/12/6e �
+ []
+
+) [12]
+\openout2 = `2023OA.aux'.
+
+ (2023OA.tex
+<./Figure/2023/2023_4_1.png, id=293, 1050.92625pt x 164.11313pt>
+File: ./Figure/2023/2023_4_1.png Graphic file (type png)
+<use ./Figure/2023/2023_4_1.png>
+Package pdftex.def Info: ./Figure/2023/2023_4_1.png  used on input line 25.
+(pdftex.def)             Requested size: 399.35612pt x 62.36363pt.
+<./Figure/2023/2023_4_2.png, id=294, 1015.54407pt x 149.8097pt>
+File: ./Figure/2023/2023_4_2.png Graphic file (type png)
+<use ./Figure/2023/2023_4_2.png>
+Package pdftex.def Info: ./Figure/2023/2023_4_2.png  used on input line 28.
+(pdftex.def)             Requested size: 385.91075pt x 56.92827pt.
+<./Figure/2023/2023_4_3.png, id=295, 1150.2975pt x 241.65282pt>
+File: ./Figure/2023/2023_4_3.png Graphic file (type png)
+<use ./Figure/2023/2023_4_3.png>
+Package pdftex.def Info: ./Figure/2023/2023_4_3.png  used on input line 31.
+(pdftex.def)             Requested size: 437.1176pt x 91.82901pt.
+
+Overfull \hbox (11.24818pt too wide) in paragraph at lines 31--32
+[][] 
+ []
+
+<./Figure/2023/2023_4_6.png, id=296, 993.7125pt x 231.11343pt>
+File: ./Figure/2023/2023_4_6.png Graphic file (type png)
+<use ./Figure/2023/2023_4_6.png>
+Package pdftex.def Info: ./Figure/2023/2023_4_6.png  used on input line 48.
+(pdftex.def)             Requested size: 377.61467pt x 87.824pt.
+[13
+
+
+
+ <./Figure/2023/2023_4_1.png> <./Figure/2023/2023_4_2.png> <./Figure/2023/2023_4_3.png>]
+<./Figure/2023/2023_4_7.png, id=304, 995.21812pt x 149.8097pt>
+File: ./Figure/2023/2023_4_7.png Graphic file (type png)
+<use ./Figure/2023/2023_4_7.png>
+Package pdftex.def Info: ./Figure/2023/2023_4_7.png  used on input line 51.
+(pdftex.def)             Requested size: 378.18681pt x 56.92827pt.
+<./Figure/2023/2023_4_8.png, id=305, 166.37157pt x 206.27063pt>
+File: ./Figure/2023/2023_4_8.png Graphic file (type png)
+<use ./Figure/2023/2023_4_8.png>
+Package pdftex.def Info: ./Figure/2023/2023_4_8.png  used on input line 54.
+(pdftex.def)             Requested size: 63.22183pt x 78.38364pt.
+File: ./Figure/2023/2023_4_8.png Graphic file (type png)
+<use ./Figure/2023/2023_4_8.png>
+Package pdftex.def Info: ./Figure/2023/2023_4_8.png  used on input line 63.
+(pdftex.def)             Requested size: 63.22183pt x 78.38364pt.
+<./Figure/2023/2023_4_12.png, id=307, 918.43124pt x 135.50626pt>
+File: ./Figure/2023/2023_4_12.png Graphic file (type png)
+<use ./Figure/2023/2023_4_12.png>
+Package pdftex.def Info: ./Figure/2023/2023_4_12.png  used on input line 86.
+(pdftex.def)             Requested size: 349.00749pt x 51.4929pt.
+ [14 <./Figure/2023/2023_4_6.png> <./Figure/2023/2023_4_7.png> <./Figure/2023/2023_4_8.png> <./Figure/2023/2023_4_12.png>]
+<./Figure/2023/2023_1_1.png, id=316, 998.22937pt x 322.95656pt>
+File: ./Figure/2023/2023_1_1.png Graphic file (type png)
+<use ./Figure/2023/2023_1_1.png>
+Package pdftex.def Info: ./Figure/2023/2023_1_1.png  used on input line 114.
+(pdftex.def)             Requested size: 299.47112pt x 96.88771pt.
+<./Figure/2023/2023_1_2.png, id=317, 673.76718pt x 153.57375pt>
+File: ./Figure/2023/2023_1_2.png Graphic file (type png)
+<use ./Figure/2023/2023_1_2.png>
+Package pdftex.def Info: ./Figure/2023/2023_1_2.png  used on input line 115.
+(pdftex.def)             Requested size: 202.13171pt x 46.07246pt.
+<./Figure/2023/2023_1_3.png, id=318, 1132.23pt x 301.125pt>
+File: ./Figure/2023/2023_1_3.png Graphic file (type png)
+<use ./Figure/2023/2023_1_3.png>
+Package pdftex.def Info: ./Figure/2023/2023_1_3.png  used on input line 116.
+(pdftex.def)             Requested size: 339.67162pt x 90.33818pt.
+<./Figure/2023/2023_1_4.png, id=319, 845.40843pt x 213.04594pt>
+File: ./Figure/2023/2023_1_4.png Graphic file (type png)
+<use ./Figure/2023/2023_1_4.png>
+Package pdftex.def Info: ./Figure/2023/2023_1_4.png  used on input line 117.
+(pdftex.def)             Requested size: 253.62448pt x 63.91426pt.
+<./Figure/2023/2023_1_5.png, id=320, 703.12688pt x 130.98938pt>
+File: ./Figure/2023/2023_1_5.png Graphic file (type png)
+<use ./Figure/2023/2023_1_5.png>
+Package pdftex.def Info: ./Figure/2023/2023_1_5.png  used on input line 118.
+(pdftex.def)             Requested size: 210.93968pt x 39.2971pt.
+<./Figure/2023/2023_1_6.png, id=321, 524.71031pt x 189.70876pt>
+File: ./Figure/2023/2023_1_6.png Graphic file (type png)
+<use ./Figure/2023/2023_1_6.png>
+Package pdftex.def Info: ./Figure/2023/2023_1_6.png  used on input line 119.
+(pdftex.def)             Requested size: 157.41429pt x 56.91306pt.
+ [15 <./Figure/2023/2023_1_1.png> <./Figure/2023/2023_1_2.png> <./Figure/2023/2023_1_3.png> <./Figure/2023/2023_1_4.png> <./Figure/2023/2023_1_5.png>]
+<./Figure/2023/2023_1_7.png, id=330, 898.85812pt x 170.88844pt>
+File: ./Figure/2023/2023_1_7.png Graphic file (type png)
+<use ./Figure/2023/2023_1_7.png>
+Package pdftex.def Info: ./Figure/2023/2023_1_7.png  used on input line 120.
+(pdftex.def)             Requested size: 269.65952pt x 51.26692pt.
+<./Figure/2023/2023_1_8.png, id=331, 1404.74812pt x 365.86688pt>
+File: ./Figure/2023/2023_1_8.png Graphic file (type png)
+<use ./Figure/2023/2023_1_8.png>
+Package pdftex.def Info: ./Figure/2023/2023_1_8.png  used on input line 121.
+(pdftex.def)             Requested size: 421.42769pt x 109.76091pt.
+<./Figure/2023/2023_2_1.png, id=332, 556.32843pt x 237.88875pt>
+File: ./Figure/2023/2023_2_1.png Graphic file (type png)
+<use ./Figure/2023/2023_2_1.png>
+Package pdftex.def Info: ./Figure/2023/2023_2_1.png  used on input line 151.
+(pdftex.def)             Requested size: 166.89981pt x 71.36716pt.
+<./Figure/2023/2023_2_2.png, id=333, 1033.61156pt x 175.40532pt>
+File: ./Figure/2023/2023_2_2.png Graphic file (type png)
+<use ./Figure/2023/2023_2_2.png>
+Package pdftex.def Info: ./Figure/2023/2023_2_2.png  used on input line 152.
+(pdftex.def)             Requested size: 310.08586pt x 52.622pt.
+ [16 <./Figure/2023/2023_1_6.png> <./Figure/2023/2023_1_7.png> <./Figure/2023/2023_1_8.png> <./Figure/2023/2023_2_1.png> <./Figure/2023/2023_2_2.png>]
+<./Figure/2023/2023_3.png, id=342, 959.83594pt x 496.10344pt>
+File: ./Figure/2023/2023_3.png Graphic file (type png)
+<use ./Figure/2023/2023_3.png>
+Package pdftex.def Info: ./Figure/2023/2023_3.png  used on input line 165.
+(pdftex.def)             Requested size: 364.74146pt x 188.52126pt.
+ [17 <./Figure/2023/2023_3.png>]) [18]
+\openout2 = `2024OA.aux'.
+
+ (2024OA.tex
+<./Figure/2024/2024_4_1.png, id=350, 1083.29718pt x 160.34906pt>
+File: ./Figure/2024/2024_4_1.png Graphic file (type png)
+<use ./Figure/2024/2024_4_1.png>
+Package pdftex.def Info: ./Figure/2024/2024_4_1.png  used on input line 25.
+(pdftex.def)             Requested size: 411.65721pt x 60.93327pt.
+<./Figure/2024/2024_4_2.png, id=351, 1010.27437pt x 188.95593pt>
+File: ./Figure/2024/2024_4_2.png Graphic file (type png)
+<use ./Figure/2024/2024_4_2.png>
+Package pdftex.def Info: ./Figure/2024/2024_4_2.png  used on input line 28.
+(pdftex.def)             Requested size: 383.90825pt x 71.80399pt.
+<./Figure/2024/2024_4_3.png, id=352, 1070.49937pt x 160.34906pt>
+File: ./Figure/2024/2024_4_3.png Graphic file (type png)
+<use ./Figure/2024/2024_4_3.png>
+Package pdftex.def Info: ./Figure/2024/2024_4_3.png  used on input line 31.
+(pdftex.def)             Requested size: 406.79399pt x 60.93327pt.
+<./Figure/2024/2024_4_5.png, id=353, 924.45375pt x 146.79843pt>
+File: ./Figure/2024/2024_4_5.png Graphic file (type png)
+<use ./Figure/2024/2024_4_5.png>
+Package pdftex.def Info: ./Figure/2024/2024_4_5.png  used on input line 41.
+(pdftex.def)             Requested size: 351.29607pt x 55.78398pt.
+ [19
+
+
+
+ <./Figure/2024/2024_4_1.png> <./Figure/2024/2024_4_2.png> <./Figure/2024/2024_4_3.png>]
+<./Figure/2024/2024_4_6.png, id=361, 291.33844pt x 134.75343pt>
+File: ./Figure/2024/2024_4_6.png Graphic file (type png)
+<use ./Figure/2024/2024_4_6.png>
+Package pdftex.def Info: ./Figure/2024/2024_4_6.png  used on input line 44.
+(pdftex.def)             Requested size: 110.70975pt x 51.20683pt.
+File: ./Figure/2021/2021_4_7.png Graphic file (type png)
+<use ./Figure/2021/2021_4_7.png>
+Package pdftex.def Info: ./Figure/2021/2021_4_7.png  used on input line 53.
+(pdftex.def)             Requested size: 377.90074pt x 56.6422pt.
+<./Figure/2024/2024_4_8.png, id=362, 806.26219pt x 90.3375pt>
+File: ./Figure/2024/2024_4_8.png Graphic file (type png)
+<use ./Figure/2024/2024_4_8.png>
+Package pdftex.def Info: ./Figure/2024/2024_4_8.png  used on input line 56.
+(pdftex.def)             Requested size: 306.38281pt x 34.3286pt.
+
+Overfull \hbox (2.89424pt too wide) in paragraph at lines 76--76
+|$[][][][][][][][][]$| 
+ []
+
+<./Figure/2024/2024_4_10.png, id=363, 1005.7575pt x 218.31563pt>
+File: ./Figure/2024/2024_4_10.png Graphic file (type png)
+<use ./Figure/2024/2024_4_10.png>
+Package pdftex.def Info: ./Figure/2024/2024_4_10.png  used on input line 79.
+(pdftex.def)             Requested size: 382.19182pt x 82.96078pt.
+<./Figure/2024/2024_4_12.png, id=364, 1033.61156pt x 170.13562pt>
+File: ./Figure/2024/2024_4_12.png Graphic file (type png)
+<use ./Figure/2024/2024_4_12.png>
+Package pdftex.def Info: ./Figure/2024/2024_4_12.png  used on input line 89.
+(pdftex.def)             Requested size: 392.77647pt x 64.65219pt.
+[20 <./Figure/2024/2024_4_5.png> <./Figure/2024/2024_4_6.png> <./Figure/2024/2024_4_8.png> <./Figure/2024/2024_4_10.png>]
+<./Figure/2024/2024_4_13.png, id=372, 935.74594pt x 134.75343pt>
+File: ./Figure/2024/2024_4_13.png Graphic file (type png)
+<use ./Figure/2024/2024_4_13.png>
+Package pdftex.def Info: ./Figure/2024/2024_4_13.png  used on input line 92.
+(pdftex.def)             Requested size: 355.58716pt x 51.20683pt.
+<./Figure/2024/2024_1_1.png, id=373, 851.43094pt x 103.13531pt>
+File: ./Figure/2024/2024_1_1.png Graphic file (type png)
+<use ./Figure/2024/2024_1_1.png>
+Package pdftex.def Info: ./Figure/2024/2024_1_1.png  used on input line 99.
+(pdftex.def)             Requested size: 255.43124pt x 30.94083pt.
+<./Figure/2024/2024_1_2.png, id=374, 657.95813pt x 250.68657pt>
+File: ./Figure/2024/2024_1_2.png Graphic file (type png)
+<use ./Figure/2024/2024_1_2.png>
+Package pdftex.def Info: ./Figure/2024/2024_1_2.png  used on input line 100.
+(pdftex.def)             Requested size: 197.38896pt x 75.20654pt.
+<./Figure/2024/2024_1_3.png, id=375, 608.2725pt x 252.945pt>
+File: ./Figure/2024/2024_1_3.png Graphic file (type png)
+<use ./Figure/2024/2024_1_3.png>
+Package pdftex.def Info: ./Figure/2024/2024_1_3.png  used on input line 101.
+(pdftex.def)             Requested size: 182.48315pt x 75.88408pt.
+<./Figure/2024/2024_1_4.png, id=376, 890.5772pt x 123.46124pt>
+File: ./Figure/2024/2024_1_4.png Graphic file (type png)
+<use ./Figure/2024/2024_1_4.png>
+Package pdftex.def Info: ./Figure/2024/2024_1_4.png  used on input line 102.
+(pdftex.def)             Requested size: 267.17522pt x 37.03865pt.
+<./Figure/2024/2024_1_5.png, id=377, 893.58844pt x 246.9225pt>
+File: ./Figure/2024/2024_1_5.png Graphic file (type png)
+<use ./Figure/2024/2024_1_5.png>
+Package pdftex.def Info: ./Figure/2024/2024_1_5.png  used on input line 103.
+(pdftex.def)             Requested size: 268.0786pt x 74.0773pt.
+<./Figure/2024/2024_1_6.png, id=378, 939.51pt x 188.95593pt>
+File: ./Figure/2024/2024_1_6.png Graphic file (type png)
+<use ./Figure/2024/2024_1_6.png>
+Package pdftex.def Info: ./Figure/2024/2024_1_6.png  used on input line 104.
+(pdftex.def)             Requested size: 281.85518pt x 56.68721pt.
+<./Figure/2024/2024_1_7.png, id=379, 1034.36438pt x 141.52875pt>
+File: ./Figure/2024/2024_1_7.png Graphic file (type png)
+<use ./Figure/2024/2024_1_7.png>
+Package pdftex.def Info: ./Figure/2024/2024_1_7.png  used on input line 105.
+(pdftex.def)             Requested size: 310.3117pt x 42.45894pt.
+ [21 <./Figure/2024/2024_4_12.png> <./Figure/2024/2024_4_13.png> <./Figure/2024/2024_1_1.png> <./Figure/2024/2024_1_2.png> <./Figure/2024/2024_1_3.png> <./Figure/2024/2024_1_4.png> <./Figure/2024/2024_1_5.png> <./Figure/2024/2024_1_6.png>]
+<./Figure/2024/2024_1_8.png, id=391, 1017.04968pt x 135.50626pt>
+File: ./Figure/2024/2024_1_8.png Graphic file (type png)
+<use ./Figure/2024/2024_1_8.png>
+Package pdftex.def Info: ./Figure/2024/2024_1_8.png  used on input line 106.
+(pdftex.def)             Requested size: 305.11725pt x 40.65218pt.
+<./Figure/2024/2024_1_9.png, id=392, 1152.55594pt x 258.21469pt>
+File: ./Figure/2024/2024_1_9.png Graphic file (type png)
+<use ./Figure/2024/2024_1_9.png>
+Package pdftex.def Info: ./Figure/2024/2024_1_9.png  used on input line 107.
+(pdftex.def)             Requested size: 345.76945pt x 77.465pt.
+<./Figure/2024/2024_5_1.png, id=393, 380.92313pt x 186.6975pt>
+File: ./Figure/2024/2024_5_1.png Graphic file (type png)
+<use ./Figure/2024/2024_5_1.png>
+Package pdftex.def Info: ./Figure/2024/2024_5_1.png  used on input line 117.
+(pdftex.def)             Requested size: 114.2778pt x 56.00967pt.
+<./Figure/2024/2024_2_1.png, id=394, 578.16pt x 386.94562pt>
+File: ./Figure/2024/2024_2_1.png Graphic file (type png)
+<use ./Figure/2024/2024_2_1.png>
+Package pdftex.def Info: ./Figure/2024/2024_2_1.png  used on input line 125.
+(pdftex.def)             Requested size: 173.44933pt x 116.08458pt.
+<./Figure/2024/2024_2_2.png, id=395, 869.49844pt x 135.50626pt>
+File: ./Figure/2024/2024_2_2.png Graphic file (type png)
+<use ./Figure/2024/2024_2_2.png>
+Package pdftex.def Info: ./Figure/2024/2024_2_2.png  used on input line 126.
+(pdftex.def)             Requested size: 260.85155pt x 40.65218pt.
+ [22 <./Figure/2024/2024_1_7.png> <./Figure/2024/2024_1_8.png> <./Figure/2024/2024_1_9.png> <./Figure/2024/2024_5_1.png> <./Figure/2024/2024_2_1.png> <./Figure/2024/2024_2_2.png>]
+<./Figure/2024/2024_3.png, id=405, 880.79062pt x 484.81125pt>
+File: ./Figure/2024/2024_3.png Graphic file (type png)
+<use ./Figure/2024/2024_3.png>
+Package pdftex.def Info: ./Figure/2024/2024_3.png  used on input line 139.
+(pdftex.def)             Requested size: 334.7039pt x 184.23018pt.
+ [23 <./Figure/2024/2024_3.png>]
+Overfull \hbox (7.9206pt too wide) in paragraph at lines 172--173
+[]\C70/rm/m/n/12/67 � \C70/rm/m/n/12/5f 1 \C70/rm/m/n/12/91 x$[][]$\C70/rm/m/n/12/60 ; \C70/rm/m/n/12/6d S \C70/rm/m/n/12/5e � \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 0 \OMS/cmsy/m/n/12 ^^B \OT1/cmr/m/n/12 10[] []$|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/4e �$\OT1/cmr/m/n/12 520 []$\C70/rm/m/n/12/59 ^^D|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/75 ($\OT1/cmr/m/n/12 1 []$\C70/rm/m/n/12/6b � \C70/rm/m/n/12/82 r \C70/rm/m/n/12/76 � \C70/rm/m/n/12/6d K \C70/rm/m/n/12/5b �|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/4e ^^M \C70/rm/m/n/12/54 ^^L\OT1/cmr/m/n/12 pH\C70/rm/m/n/12/50 <
+ []
+
+
+Overfull \hbox (18.77998pt too wide) in paragraph at lines 185--186
+\C70/rm/m/n/12/54 ^^H \C70/rm/m/n/12/6e � \C70/rm/m/n/12/6d �|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/6e � \C70/rm/m/n/12/5b � \C70/rm/m/n/12/7e � \C70/rm/m/n/12/70 � \C70/rm/m/n/12/76 �\OT1/cmr/m/n/12 pH\C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 6\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/6c B \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/5b f \C70/rm/m/n/12/8b � \C70/rm/m/n/12/91 � \C70/rm/m/n/12/70 � \C70/rm/m/n/12/76 �\OT1/cmr/m/n/12 pH\C70/rm/m/n/12/53 � \C70/rm/m/n/12/7e � \C70/rm/m/n/12/70 � \C70/rm/m/n/12/8b � \C70/rm/m/n/12/5d �|\C70/rm/m/n/12/30 ^^B||\C70/rm/m/n/12/ff ^^H|$[][]\OT1/cmr/m/n/12 H[][][][][]$\C70/rm/m/n/12/76 �$[]\OML/cmm/m/it/12 K[] \OT1/cmr/m/n/12 =
+ []
+
+
+Overfull \hbox (10.01248pt too wide) in paragraph at lines 189--190
+[]\OT1/cmr/m/n/12 [\C70/rm/m/n/12/5d � \C70/rm/m/n/12/77 �$[][][][][][][][][]$\C70/rm/m/n/12/53 �\OT1/cmr/m/n/12 EDTA\C70/rm/m/n/12/6d S \C70/rm/m/n/12/5e � \C70/rm/m/n/12/57 G \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 020 []$|\C70/rm/m/n/12/ff ^^L| $[][][][][][][][][][]$\C70/rm/m/n/12/76 �$[]\OML/cmm/m/it/12 K[] \OT1/cmr/m/n/12 = 10\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 7$|\C70/rm/m/n/12/ff ^^L| $[] \OML/cmm/m/it/12 K[] \OT1/cmr/m/n/12 =
+ []
+
+
+Overfull \hbox (34.46391pt too wide) in paragraph at lines 190--191
+[]\C70/rm/m/n/12/6c B$[][]$� \C70/rm/m/n/12/6d � \C70/rm/m/n/12/57 (\OT1/cmr/m/n/12 pH=8\C70/rm/m/n/12/76 �\OT1/cmr/m/n/12 HL\C70/rm/m/n/12/6e � \C70/rm/m/n/12/6d � \C70/rm/m/n/12/4e - \C70/rm/m/n/12/76 � \C70/rm/m/n/12/6e � \C70/rm/m/n/12/89 � \C70/rm/m/n/12/5e �|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/51 v \C70/rm/m/n/12/4e -\OT1/cmr/m/n/12 HL\C70/rm/m/n/12/76 � \C70/rm/m/n/12/60 ; \C70/rm/m/n/12/6d S \C70/rm/m/n/12/5e � \C70/rm/m/n/12/4e :$\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10 []$|\C70/rm/m/n/12/ff ^^L| $\OML/cmm/m/it/12 K[]\OT1/cmr/m/n/12 ([][]) =
+ []
+
+) [24]
+\openout2 = `2025OA.aux'.
+
+ (2025OA.tex
+<./Figure/2025/2025_1_1.png, id=414, 583.42969pt x 153.57375pt>
+File: ./Figure/2025/2025_1_1.png Graphic file (type png)
+<use ./Figure/2025/2025_1_1.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_1.png  used on input line 30.
+(pdftex.def)             Requested size: 175.03024pt x 46.07246pt.
+<./Figure/2025/2025_1_2.png, id=415, 630.10406pt x 115.93312pt>
+File: ./Figure/2025/2025_1_2.png Graphic file (type png)
+<use ./Figure/2025/2025_1_2.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_2.png  used on input line 31.
+(pdftex.def)             Requested size: 189.03267pt x 34.7802pt.
+<./Figure/2025/2025_1_3.png, id=416, 671.50874pt x 188.95593pt>
+File: ./Figure/2025/2025_1_3.png Graphic file (type png)
+<use ./Figure/2025/2025_1_3.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_3.png  used on input line 32.
+(pdftex.def)             Requested size: 201.45418pt x 56.68721pt.
+<./Figure/2025/2025_1_4.png, id=417, 717.43031pt x 173.89969pt>
+File: ./Figure/2025/2025_1_4.png Graphic file (type png)
+<use ./Figure/2025/2025_1_4.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_4.png  used on input line 33.
+(pdftex.def)             Requested size: 215.23074pt x 52.1703pt.
+<./Figure/2025/2025_1_5.png, id=418, 833.36343pt x 172.39406pt>
+File: ./Figure/2025/2025_1_5.png Graphic file (type png)
+<use ./Figure/2025/2025_1_5.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_5.png  used on input line 34.
+(pdftex.def)             Requested size: 250.01096pt x 51.71861pt.
+<./Figure/2025/2025_1_6.png, id=419, 746.03719pt x 122.70844pt>
+File: ./Figure/2025/2025_1_6.png Graphic file (type png)
+<use ./Figure/2025/2025_1_6.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_6.png  used on input line 35.
+(pdftex.def)             Requested size: 223.81288pt x 36.8128pt.
+ [25
+
+
+
+ <./Figure/2025/2025_1_1.png> <./Figure/2025/2025_1_2.png> <./Figure/2025/2025_1_3.png> <./Figure/2025/2025_1_4.png> <./Figure/2025/2025_1_5.png>]
+<./Figure/2025/2025_1_7.png, id=429, 997.47656pt x 108.405pt>
+File: ./Figure/2025/2025_1_7.png Graphic file (type png)
+<use ./Figure/2025/2025_1_7.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_7.png  used on input line 36.
+(pdftex.def)             Requested size: 299.24527pt x 32.52174pt.
+<./Figure/2025/2025_1_8.png, id=430, 576.65437pt x 122.70844pt>
+File: ./Figure/2025/2025_1_8.png Graphic file (type png)
+<use ./Figure/2025/2025_1_8.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_8.png  used on input line 37.
+(pdftex.def)             Requested size: 172.99763pt x 36.8128pt.
+<./Figure/2025/2025_1_9.png, id=431, 764.8575pt x 103.13531pt>
+File: ./Figure/2025/2025_1_9.png Graphic file (type png)
+<use ./Figure/2025/2025_1_9.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_9.png  used on input line 38.
+(pdftex.def)             Requested size: 229.45901pt x 30.94083pt.
+<./Figure/2025/2025_1_10.png, id=432, 749.80125pt x 124.21407pt>
+File: ./Figure/2025/2025_1_10.png Graphic file (type png)
+<use ./Figure/2025/2025_1_10.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_10.png  used on input line 39.
+(pdftex.def)             Requested size: 224.94211pt x 37.2645pt.
+<./Figure/2025/2025_1_11.png, id=433, 1119.43219pt x 197.98969pt>
+File: ./Figure/2025/2025_1_11.png Graphic file (type png)
+<use ./Figure/2025/2025_1_11.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_11.png  used on input line 40.
+(pdftex.def)             Requested size: 335.83224pt x 59.39735pt.
+<./Figure/2025/2025_1_12.png, id=434, 462.97969pt x 252.945pt>
+File: ./Figure/2025/2025_1_12.png Graphic file (type png)
+<use ./Figure/2025/2025_1_12.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_12.png  used on input line 41.
+(pdftex.def)             Requested size: 138.89497pt x 75.88408pt.
+<./Figure/2025/2025_1_13.png, id=435, 657.95813pt x 160.34906pt>
+File: ./Figure/2025/2025_1_13.png Graphic file (type png)
+<use ./Figure/2025/2025_1_13.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_13.png  used on input line 42.
+(pdftex.def)             Requested size: 197.38896pt x 48.10509pt.
+<./Figure/2025/2025_1_14.png, id=436, 392.21532pt x 206.27063pt>
+File: ./Figure/2025/2025_1_14.png Graphic file (type png)
+<use ./Figure/2025/2025_1_14.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_14.png  used on input line 43.
+(pdftex.def)             Requested size: 117.6655pt x 61.88165pt.
+<./Figure/2025/2025_1_15.png, id=437, 663.22781pt x 146.04562pt>
+File: ./Figure/2025/2025_1_15.png Graphic file (type png)
+<use ./Figure/2025/2025_1_15.png>
+Package pdftex.def Info: ./Figure/2025/2025_1_15.png  used on input line 44.
+(pdftex.def)             Requested size: 198.96988pt x 43.81401pt.
+<./Figure/2025/2025_5_1.png, id=438, 264.23718pt x 207.77625pt>
+File: ./Figure/2025/2025_5_1.png Graphic file (type png)
+<use ./Figure/2025/2025_5_1.png>
+Package pdftex.def Info: ./Figure/2025/2025_5_1.png  used on input line 54.
+(pdftex.def)             Requested size: 79.27176pt x 62.33334pt.
+ [26 <./Figure/2025/2025_1_6.png> <./Figure/2025/2025_1_7.png> <./Figure/2025/2025_1_8.png> <./Figure/2025/2025_1_9.png> <./Figure/2025/2025_1_10.png> <./Figure/2025/2025_1_11.png> <./Figure/2025/2025_1_12.png> <./Figure/2025/2025_1_13.png> <./Figure/2025/2025_1_14.png> <./Figure/2025/2025_1_15.png>]
+<./Figure/2025/2025_2_1.png, id=452, 865.73438pt x 193.47281pt>
+File: ./Figure/2025/2025_2_1.png Graphic file (type png)
+<use ./Figure/2025/2025_2_1.png>
+Package pdftex.def Info: ./Figure/2025/2025_2_1.png  used on input line 62.
+(pdftex.def)             Requested size: 259.72232pt x 58.04228pt.
+<./Figure/2025/2025_2_2.png, id=453, 703.87968pt x 219.06844pt>
+File: ./Figure/2025/2025_2_2.png Graphic file (type png)
+<use ./Figure/2025/2025_2_2.png>
+Package pdftex.def Info: ./Figure/2025/2025_2_2.png  used on input line 63.
+(pdftex.def)             Requested size: 211.16553pt x 65.72102pt.
+<./Figure/2025/2025_3.png, id=454, 941.76843pt x 491.58656pt>
+File: ./Figure/2025/2025_3.png Graphic file (type png)
+<use ./Figure/2025/2025_3.png>
+Package pdftex.def Info: ./Figure/2025/2025_3.png  used on input line 74.
+(pdftex.def)             Requested size: 357.87572pt x 186.80482pt.
+ [27 <./Figure/2025/2025_5_1.png> <./Figure/2025/2025_2_1.png> <./Figure/2025/2025_2_2.png> <./Figure/2025/2025_3.png>]
+Overfull \hbox (8.46451pt too wide) in paragraph at lines 146--149
+[]\C70/rm/m/n/12/57 ( $[] \OT1/cmr/m/n/12 = 5\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$ \C70/rm/m/n/12/76 � \C70/rm/m/n/12/7f ^^S \C70/rm/m/n/12/51 � \C70/rm/m/n/12/6e � \C70/rm/m/n/12/6d � \C70/rm/m/n/12/4e -|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/75 ( $\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 020 []$ \C70/rm/m/n/12/76 � \OT1/cmr/m/n/12 EDTA \C70/rm/m/n/12/68 ^^G \C70/rm/m/n/12/51 � \C70/rm/m/n/12/6e � \C70/rm/m/n/12/6d � \C70/rm/m/n/12/6e � \C70/rm/m/n/12/5b � \C70/rm/m/n/12/54 + \C70/rm/m/n/12/67 	 $\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 020 []$
+ []
+
+
+Overfull \hbox (1.43997pt too wide) in paragraph at lines 146--149
+\C70/rm/m/n/12/5d � \C70/rm/m/n/12/77 �|\C70/rm/m/n/12/ff ^^Z| $[] \OML/cmm/m/it/12 K[] \OT1/cmr/m/n/12 = 16\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 3$|\C70/rm/m/n/12/ff ^^L| $[] \OML/cmm/m/it/12 K[] \OT1/cmr/m/n/12 = 18\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 0$|\C70/rm/m/n/12/ff ^^[| $[] \OT1/cmr/m/n/12 = 5\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$ \C70/rm/m/n/12/65 �|\C70/rm/m/n/12/ff ^^L| $[][]\OT1/cmr/m/n/12 ([]) = 7\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 6$|\C70/rm/m/n/12/ff ^^L| $[] \OML/cmm/m/it/12 [] \OT1/cmr/m/n/12 =
+ []
+
+[28]) [29]
+\openout2 = `2026OA.aux'.
+
+ (2026OA.tex
+Overfull \hbox (8.58852pt too wide) in paragraph at lines 36--36
+[]|$[][][][]$| 
+ []
+
+
+Overfull \hbox (5.50533pt too wide) in paragraph at lines 36--36
+|$[][][][][][][]$| 
+ []
+
+<./Figure/2026/2026_4_4.png, id=474, 223.58531pt x 171.64125pt>
+File: ./Figure/2026/2026_4_4.png Graphic file (type png)
+<use ./Figure/2026/2026_4_4.png>
+Package pdftex.def Info: ./Figure/2026/2026_4_4.png  used on input line 46.
+(pdftex.def)             Requested size: 84.96329pt x 65.22433pt.
+<./Figure/2026/2026_4_6.png, id=475, 355.3275pt x 93.34875pt>
+File: ./Figure/2026/2026_4_6.png Graphic file (type png)
+<use ./Figure/2026/2026_4_6.png>
+Package pdftex.def Info: ./Figure/2026/2026_4_6.png  used on input line 63.
+(pdftex.def)             Requested size: 135.02585pt x 35.47289pt.
+<./Figure/2026/2026_4_7.png, id=476, 918.43124pt x 135.50626pt>
+File: ./Figure/2026/2026_4_7.png Graphic file (type png)
+<use ./Figure/2026/2026_4_7.png>
+Package pdftex.def Info: ./Figure/2026/2026_4_7.png  used on input line 72.
+(pdftex.def)             Requested size: 349.00749pt x 51.4929pt.
+[30
+
+
+
+ <./Figure/2026/2026_4_4.png>]
+<./Figure/2026/2026_4_8.png, id=481, 997.47656pt x 185.19188pt>
+File: ./Figure/2026/2026_4_8.png Graphic file (type png)
+<use ./Figure/2026/2026_4_8.png>
+Package pdftex.def Info: ./Figure/2026/2026_4_8.png  used on input line 75.
+(pdftex.def)             Requested size: 379.04503pt x 70.37363pt.
+<./Figure/2026/2026_4_9.png, id=482, 1017.04968pt x 143.78719pt>
+File: ./Figure/2026/2026_4_9.png Graphic file (type png)
+<use ./Figure/2026/2026_4_9.png>
+Package pdftex.def Info: ./Figure/2026/2026_4_9.png  used on input line 78.
+(pdftex.def)             Requested size: 386.4829pt x 54.6397pt.
+<./Figure/2026/2026_4_11.png, id=483, 1079.53313pt x 231.86626pt>
+File: ./Figure/2026/2026_4_11.png Graphic file (type png)
+<use ./Figure/2026/2026_4_11.png>
+Package pdftex.def Info: ./Figure/2026/2026_4_11.png  used on input line 88.
+(pdftex.def)             Requested size: 410.22685pt x 88.11008pt.
+<./Figure/2026/2026_4_12.png, id=484, 1151.80313pt x 237.13594pt>
+File: ./Figure/2026/2026_4_12.png Graphic file (type png)
+<use ./Figure/2026/2026_4_12.png>
+Package pdftex.def Info: ./Figure/2026/2026_4_12.png  used on input line 91.
+(pdftex.def)             Requested size: 437.68974pt x 90.11258pt.
+
+Overfull \hbox (11.82033pt too wide) in paragraph at lines 91--92
+[][] 
+ []
+
+<./Figure/2026/2026_4_13.png, id=485, 1008.01593pt x 295.85532pt>
+File: ./Figure/2026/2026_4_13.png Graphic file (type png)
+<use ./Figure/2026/2026_4_13.png>
+Package pdftex.def Info: ./Figure/2026/2026_4_13.png  used on input line 94.
+(pdftex.def)             Requested size: 383.05003pt x 112.42618pt.
+[31 <./Figure/2026/2026_4_6.png> <./Figure/2026/2026_4_7.png> <./Figure/2026/2026_4_8.png> <./Figure/2026/2026_4_9.png> <./Figure/2026/2026_4_11.png> <./Figure/2026/2026_4_12.png>]
+<./Figure/2026/2026_4_14.png, id=496, 1030.60031pt x 185.19188pt>
+File: ./Figure/2026/2026_4_14.png Graphic file (type png)
+<use ./Figure/2026/2026_4_14.png>
+Package pdftex.def Info: ./Figure/2026/2026_4_14.png  used on input line 97.
+(pdftex.def)             Requested size: 391.63219pt x 70.37363pt.
+<./Figure/2026/2026_4_15.png, id=497, 1006.51031pt x 240.14719pt>
+File: ./Figure/2026/2026_4_15.png Graphic file (type png)
+<use ./Figure/2026/2026_4_15.png>
+Package pdftex.def Info: ./Figure/2026/2026_4_15.png  used on input line 100.
+(pdftex.def)             Requested size: 382.47789pt x 91.25687pt.
+<./Figure/2026/2026_1_1.png, id=498, 1020.81375pt x 290.58563pt>
+File: ./Figure/2026/2026_1_1.png Graphic file (type png)
+<use ./Figure/2026/2026_1_1.png>
+Package pdftex.def Info: ./Figure/2026/2026_1_1.png  used on input line 107.
+(pdftex.def)             Requested size: 306.24649pt x 87.17636pt.
+<./Figure/2026/2026_1_2.png, id=499, 1024.57782pt x 293.59688pt>
+File: ./Figure/2026/2026_1_2.png Graphic file (type png)
+<use ./Figure/2026/2026_1_2.png>
+Package pdftex.def Info: ./Figure/2026/2026_1_2.png  used on input line 108.
+(pdftex.def)             Requested size: 307.37572pt x 88.07973pt.
+<./Figure/2026/2026_1_3.png, id=500, 916.92563pt x 135.50626pt>
+File: ./Figure/2026/2026_1_3.png Graphic file (type png)
+<use ./Figure/2026/2026_1_3.png>
+Package pdftex.def Info: ./Figure/2026/2026_1_3.png  used on input line 109.
+(pdftex.def)             Requested size: 275.0798pt x 40.65218pt.
+<./Figure/2026/2026_1_4.png, id=501, 1007.26312pt x 257.46187pt>
+File: ./Figure/2026/2026_1_4.png Graphic file (type png)
+<use ./Figure/2026/2026_1_4.png>
+Package pdftex.def Info: ./Figure/2026/2026_1_4.png  used on input line 110.
+(pdftex.def)             Requested size: 302.18126pt x 77.23915pt.
+ [32 <./Figure/2026/2026_4_13.png> <./Figure/2026/2026_4_14.png> <./Figure/2026/2026_4_15.png> <./Figure/2026/2026_1_1.png> <./Figure/2026/2026_1_2.png> <./Figure/2026/2026_1_3.png>]
+<./Figure/2026/2026_1_5.png, id=512, 1141.26375pt x 519.44063pt>
+File: ./Figure/2026/2026_1_5.png Graphic file (type png)
+<use ./Figure/2026/2026_1_5.png>
+Package pdftex.def Info: ./Figure/2026/2026_1_5.png  used on input line 111.
+(pdftex.def)             Requested size: 342.38176pt x 155.83339pt.
+<./Figure/2026/2026_5_1.png, id=513, 135.50626pt x 172.39406pt>
+File: ./Figure/2026/2026_5_1.png Graphic file (type png)
+<use ./Figure/2026/2026_5_1.png>
+Package pdftex.def Info: ./Figure/2026/2026_5_1.png  used on input line 121.
+(pdftex.def)             Requested size: 40.65218pt x 51.71861pt.
+<./Figure/2026/2026_5_2.png, id=514, 919.93687pt x 483.30562pt>
+File: ./Figure/2026/2026_5_2.png Graphic file (type png)
+<use ./Figure/2026/2026_5_2.png>
+Package pdftex.def Info: ./Figure/2026/2026_5_2.png  used on input line 125.
+(pdftex.def)             Requested size: 275.98318pt x 144.9928pt.
+<./Figure/2026/2026_2_1.png, id=515, 665.48625pt x 162.6075pt>
+File: ./Figure/2026/2026_2_1.png Graphic file (type png)
+<use ./Figure/2026/2026_2_1.png>
+Package pdftex.def Info: ./Figure/2026/2026_2_1.png  used on input line 134.
+(pdftex.def)             Requested size: 199.64742pt x 48.78262pt.
+<./Figure/2026/2026_2_2.png, id=516, 745.28438pt x 209.28188pt>
+File: ./Figure/2026/2026_2_2.png Graphic file (type png)
+<use ./Figure/2026/2026_2_2.png>
+Package pdftex.def Info: ./Figure/2026/2026_2_2.png  used on input line 135.
+(pdftex.def)             Requested size: 223.58704pt x 62.78503pt.
+ [33 <./Figure/2026/2026_1_4.png> <./Figure/2026/2026_1_5.png> <./Figure/2026/2026_5_1.png> <./Figure/2026/2026_5_2.png> <./Figure/2026/2026_2_1.png>]
+<./Figure/2026/2026_2_3.png, id=525, 950.80219pt x 191.9672pt>
+File: ./Figure/2026/2026_2_3.png Graphic file (type png)
+<use ./Figure/2026/2026_2_3.png>
+Package pdftex.def Info: ./Figure/2026/2026_2_3.png  used on input line 136.
+(pdftex.def)             Requested size: 285.24286pt x 57.59059pt.
+<./Figure/2026/2026_3.png, id=526, 939.51pt x 496.10344pt>
+File: ./Figure/2026/2026_3.png Graphic file (type png)
+<use ./Figure/2026/2026_3.png>
+Package pdftex.def Info: ./Figure/2026/2026_3.png  used on input line 146.
+(pdftex.def)             Requested size: 357.0175pt x 188.52126pt.
+
+Overfull \hbox (8.6939pt too wide) in paragraph at lines 171--171
+|$\OT1/cmr/m/n/12 5\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 0 \OML/cmm/m/it/12 < [] < \OT1/cmr/m/n/12 10\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 0$| 
+ []
+
+[34 <./Figure/2026/2026_2_2.png> <./Figure/2026/2026_2_3.png> <./Figure/2026/2026_3.png>] [35]
+Overfull \hbox (28.29837pt too wide) in paragraph at lines 253--254
+[]\C70/rm/m/n/12/82 � \C70/rm/m/n/12/6e � \C70/rm/m/n/12/5b � \C70/rm/m/n/12/52 B \C70/rm/m/n/12/4e ^^N \C70/rm/m/n/12/88 � \C70/rm/m/n/12/6d K \C70/rm/m/n/12/72 i \C70/rm/m/n/12/6e � \C70/rm/m/n/12/6d � S \C70/rm/m/n/12/5e � \C70/rm/m/n/12/57 G \C70/rm/m/n/12/58 � \C70/rm/m/n/12/52 �\OT1/cmr/m/n/12 10\C70/rm/m/n/12/50 ^^M|\C70/rm/m/n/12/ff ^^L| $[][]$\C70/rm/m/n/12/6e � \C70/rm/m/n/12/5b �$[][]$\C70/rm/m/n/12/76 � \C70/rm/m/n/12/6e � \C70/rm/m/n/12/5b � \C70/rm/m/n/12/7a � \C70/rm/m/n/12/8d �$[]$|\C70/rm/m/n/12/ff ^^[| $[][]$\C70/rm/m/n/12/6e �
+ []
+
+
+Overfull \hbox (21.16861pt too wide) in paragraph at lines 256--257
+[]\C70/rm/m/n/12/5b � \C70/rm/m/n/12/9a � \C70/rm/m/n/12/8b � \C70/rm/m/n/12/66 ^^N|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/8f � \C70/rm/m/n/12/4f N \C70/rm/m/n/12/6d S \C70/rm/m/n/12/5e �$[][][][][][][][]$\C70/rm/m/n/12/5b X \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/4e |\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/76 � \C70/rm/m/n/12/6b � \C70/rm/m/n/12/7e � \C70/rm/m/n/12/6c 4$[][][][]$\C70/rm/m/n/12/76 � \C70/rm/m/n/12/6e � \C70/rm/m/n/12/89 � \C70/rm/m/n/12/5e � \C70/rm/m/n/12/96 M \C70/rm/m/n/12/4f N|\C70/rm/m/n/12/ff ^^[| \C70/rm/m/n/12/4f F \C70/rm/m/n/12/5f S$[][][][][][][][]$\C70/rm/m/n/12/76 �
+ []
+
+
+Overfull \hbox (10.95161pt too wide) in paragraph at lines 261--262
+[]\C70/rm/m/n/12/5d � \C70/rm/m/n/12/77 �\OT1/cmr/m/n/12 EDTA($[][]H[][]Y[][]$)\C70/rm/m/n/12/76 � $[]\OML/cmm/m/it/12 K[] \OMS/cmsy/m/n/12 ^^X []\OML/cmm/m/it/12 K[]$\C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/4e :\OT1/cmr/m/n/12 0.9|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 1.6|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 2.0|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 2.67|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 6.16|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 10.26|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/57 ($[] \OML/cmm/m/it/12 <
+ []
+
+[36]) [37] (d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\main.aux (d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\2021OA.aux) (d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\2022OA.aux) (d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\2023OA.aux) (d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\2024OA.aux) (d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\2025OA.aux) (d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\2026OA.aux))
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2022/07/14>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 12117 strings out of 467871
+ 246928 string characters out of 5416440
+ 639587 words of memory out of 5000000
+ 40540 multiletter control sequences out of 15000+600000
+ 670107 words of font info for 194 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 78i,16n,92p,775b,760s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf> <C:\Users\乐绘彩\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Users/乐绘彩/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/乐绘彩/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/乐绘彩/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/乐绘彩/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/乐绘彩/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/乐绘彩/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/乐绘彩/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/乐绘彩/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/乐绘彩/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/乐绘彩/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on d:\Files\books\Saki_F\2026新气象\真题及解答\有机分析\Build\main.pdf (37 pages, 2975165 bytes).
+PDF statistics:
+ 890 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 905 words of extra memory for PDF output out of 10000 (max. 10000000)
+
